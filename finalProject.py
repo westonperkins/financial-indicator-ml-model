@@ -7,7 +7,6 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import (
     accuracy_score,
-    classification_report,
     confusion_matrix,
     roc_curve,
     auc,
@@ -162,6 +161,8 @@ performance_summary = pd.DataFrame({"Metric": ["Accuracy"], "Value": [accuracy]}
 
 performance_summary.to_csv("model_performance_summary.csv", index=False)
 
+
+
 # PLOTS
 # -----
 
@@ -173,10 +174,10 @@ plt.figure(figsize=(6, 4))
 sns.heatmap(cm, annot=True, fmt="d", cmap="Blues")
 plt.xlabel("Predicted")
 plt.ylabel("Actual")
-plt.title("Confusion Matrix - 2018 predictions")
+plt.title("Confusion Matrix (2018 predictions)")
 plt.show()
 
-# FEATURE IMPORTANCE BAR CHART (TOP 15)
+# TOP 15 MOST IMPORTANT FINANCIAL INDICATORS
 top_features = feature_importance.head(15)
 
 plt.figure(figsize=(8, 6))
@@ -184,11 +185,11 @@ sns.barplot(data=top_features, x="Abs_Coefficient", y="Feature", palette="viridi
 
 plt.title("Top 15 Most Important Financial Indicators")
 plt.xlabel("Importance (magnitude)")
-plt.ylabel("Financial Indicator")
+plt.ylabel("Indicator")
 plt.tight_layout()
 plt.show()
 
-# SECTOR LEVEL MODEL ACCURACY
+# MODEL ACCURACY BY SECTOR
 plt.figure(figsize=(8, 5))
 sector_accuracy.plot(kind="bar", color="steelblue")
 
@@ -206,18 +207,18 @@ distribution_df = pd.DataFrame(
 ).fillna(0)
 
 distribution_df.plot(kind="bar", figsize=(6, 4))
-plt.title("Actual vs Predicted Buy/Sell Distribution (2018)")
+plt.title("Actual vs Predicted Buy/Sell Results (2018)")
 plt.ylabel("Number of Stocks")
 plt.xlabel("Class (0 = Sell, 1 = Buy)")
 plt.xticks(rotation=0)
 plt.tight_layout()
 plt.show()
 
-# CLASS BALANCE IN 2018
+# CLASS RESULTS IN 2018
 plt.figure(figsize=(4, 4))
 y_test.value_counts().plot(kind="bar", color=["green", "red"])
 
-plt.title("Actual Stock Outcomes in 2018")
+plt.title("Actual Stock Outcomes (2018)")
 plt.xlabel("Class (0 = Sell, 1 = Buy)")
 plt.ylabel("Number of Stocks")
 plt.xticks(rotation=0)
@@ -234,7 +235,7 @@ plt.figure(figsize=(6, 5))
 plt.plot(fpr, tpr, label=f"AUC = {roc_auc:.2f}")
 plt.plot([0, 1], [0, 1], linestyle="--", color="gray")
 
-plt.title("ROC Curve – Buy vs Sell Classification")
+plt.title("ROC Curve – Buy vs Sell")
 plt.xlabel("False Positive Rate")
 plt.ylabel("True Positive Rate")
 plt.legend()
@@ -250,7 +251,7 @@ top_signed["Direction"] = top_signed["Coefficient"].apply(
 plt.figure(figsize=(8, 6))
 sns.barplot(data=top_signed, x="Coefficient", y="Feature", hue="Direction", dodge=False)
 
-plt.title("Direction of Influence for Top Financial Indicators")
+plt.title("Buy/Sell Influence for Top Financial Indicators")
 plt.xlabel("Model Weight")
 plt.ylabel("Financial Indicator")
 plt.tight_layout()
