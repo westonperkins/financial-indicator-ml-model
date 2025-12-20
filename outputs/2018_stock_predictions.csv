@@ -1,0 +1,4393 @@
+Unnamed: 0,Sector,Actual,Prediction,Correct
+CMCSA,Consumer Cyclical,1,1,True
+KMI,Energy,1,1,True
+INTC,Technology,1,1,True
+MU,Technology,1,1,True
+GE,Industrials,1,1,True
+BAC,Financial Services,1,1,True
+AAPL,Technology,1,1,True
+MSFT,Technology,1,1,True
+SIRI,Consumer Cyclical,1,1,True
+HPQ,Technology,1,1,True
+CX,Basic Materials,0,1,False
+CZR,Consumer Cyclical,1,0,False
+F,Consumer Cyclical,1,1,True
+AMD,Technology,1,1,True
+SNAP,Technology,1,1,True
+FB,Technology,1,1,True
+WFC,Financial Services,1,1,True
+AIG,Financial Services,1,1,True
+T,Communication Services,1,1,True
+C,Financial Services,1,1,True
+VALE,Basic Materials,1,1,True
+MS,Financial Services,1,1,True
+AKS,Basic Materials,1,0,False
+JPM,Financial Services,1,1,True
+ORCL,Technology,1,1,True
+NKE,Consumer Cyclical,1,1,True
+PG,Consumer Defensive,1,1,True
+GSM,Basic Materials,0,0,True
+BBD,Financial Services,1,1,True
+PFE,Healthcare,0,1,False
+JD,Technology,1,1,True
+NOK,Technology,0,1,False
+TWTR,Technology,1,1,True
+AVGO,Technology,1,1,True
+AMAT,Technology,1,1,True
+ZNGA,Technology,1,1,True
+XOM,Energy,1,0,False
+QCOM,Technology,1,1,True
+VIPS,Consumer Defensive,1,1,True
+CSCO,Technology,1,1,True
+AXP,Financial Services,1,1,True
+BMY,Healthcare,1,1,True
+V,Financial Services,1,1,True
+GRPN,Technology,0,1,False
+GERN,Healthcare,1,0,False
+KEY,Financial Services,1,1,True
+RF,Financial Services,1,1,True
+KR,Consumer Defensive,1,1,True
+HAL,Energy,0,1,False
+BABA,Consumer Cyclical,1,1,True
+MRO,Energy,0,0,True
+GILD,Healthcare,1,1,True
+GM,Consumer Cyclical,1,1,True
+FCX,Basic Materials,1,0,False
+CRM,Technology,1,1,True
+ATVI,Technology,1,1,True
+SQ,Technology,1,1,True
+NUE,Basic Materials,1,1,True
+SWN,Energy,0,0,True
+LOW,Consumer Cyclical,1,1,True
+RAD,Consumer Defensive,1,0,False
+VEON,Communication Services,1,1,True
+SLB,Energy,1,1,True
+FLEX,Technology,1,0,False
+FOXA,Consumer Cyclical,0,0,True
+ABBV,Healthcare,1,1,True
+GIS,Consumer Defensive,1,1,True
+VZ,Communication Services,1,1,True
+XRX,Technology,1,1,True
+CVLT,Technology,0,1,False
+X,Basic Materials,0,0,True
+MAT,Consumer Cyclical,1,0,False
+CTL,Communication Services,0,1,False
+MIK,Consumer Cyclical,0,1,False
+DVN,Energy,1,0,False
+IBN,Financial Services,1,0,False
+MPC,Energy,1,0,False
+PM,Consumer Defensive,1,1,True
+MSCI,Financial Services,1,1,True
+RDN,Financial Services,1,1,True
+KO,Consumer Defensive,1,1,True
+AABA,Financial Services,1,0,False
+SRC,Real Estate,1,1,True
+COP,Energy,1,0,False
+CHK,Energy,0,0,True
+DIS,Consumer Cyclical,1,1,True
+LEN,Consumer Cyclical,1,1,True
+CVX,Energy,1,0,False
+PYPL,Financial Services,1,1,True
+AUY,Basic Materials,1,0,False
+WMT,Consumer Defensive,1,1,True
+CLF,Basic Materials,1,0,False
+MRK,Healthcare,1,1,True
+MDLZ,Consumer Defensive,1,1,True
+MGM,Consumer Cyclical,1,1,True
+GFI,Basic Materials,1,0,False
+KGC,Basic Materials,1,0,False
+SCHW,Financial Services,1,1,True
+NBR,Energy,1,0,False
+SRCI,Energy,0,1,False
+JAG,Energy,0,1,False
+NVDA,Technology,1,1,True
+JNJ,Healthcare,1,1,True
+WDC,Technology,1,1,True
+BSX,Healthcare,1,1,True
+STI,Financial Services,1,1,True
+ON,Technology,1,1,True
+ITUB,Financial Services,0,1,False
+BK,Financial Services,1,1,True
+HMY,Basic Materials,1,0,False
+APA,Energy,0,0,True
+HOME,Consumer Cyclical,0,1,False
+NGD,Basic Materials,1,0,False
+KOS,Energy,1,1,True
+DAL,Industrials,1,1,True
+INFY,Technology,1,1,True
+CCL,Consumer Cyclical,1,1,True
+MFGP,Technology,1,0,False
+PBR,Energy,1,0,False
+DISCA,Consumer Cyclical,1,1,True
+LPI,Energy,0,1,False
+ABT,Healthcare,1,1,True
+FITB,Financial Services,1,1,True
+PTEN,Energy,1,0,False
+USB,Financial Services,1,1,True
+BA,Industrials,1,1,True
+GGB,Basic Materials,1,1,True
+JBLU,Industrials,1,1,True
+QEP,Energy,0,0,True
+EBAY,Consumer Cyclical,1,1,True
+HBAN,Financial Services,1,1,True
+DB,Financial Services,0,1,False
+MRVL,Technology,1,1,True
+WBA,Healthcare,0,1,False
+CDNA,Healthcare,0,0,True
+KNX,Industrials,1,0,False
+KBH,Consumer Cyclical,1,1,True
+DISCK,Consumer Cyclical,1,0,False
+PGR,Financial Services,1,1,True
+MO,Consumer Defensive,1,1,True
+MDT,Healthcare,1,1,True
+RIG,Energy,0,0,True
+BCS,Financial Services,1,1,True
+CDEV,Energy,0,1,False
+DNR,Energy,0,0,True
+EOG,Energy,0,1,False
+HPE,Technology,1,1,True
+TXN,Technology,1,1,True
+OAS,Energy,0,1,False
+OKE,Energy,1,1,True
+CVS,Healthcare,1,1,True
+HES,Energy,1,1,True
+GDDY,Technology,1,1,True
+BX,Financial Services,1,0,False
+NLSN,Industrials,0,1,False
+TS,Basic Materials,1,0,False
+BOX,Technology,0,1,False
+OXY,Energy,0,1,False
+CVE,Energy,1,0,False
+SYF,Financial Services,1,1,True
+MTG,Financial Services,1,0,False
+LUV,Industrials,1,1,True
+FTI,Energy,1,0,False
+AA,Basic Materials,0,0,True
+ABEV,Consumer Defensive,1,1,True
+EQR,Real Estate,1,1,True
+MDR,Energy,0,0,True
+ETSY,Consumer Cyclical,0,1,False
+TAL,Consumer Defensive,1,1,True
+UNH,Healthcare,1,1,True
+ECA,Energy,0,0,True
+GES,Consumer Cyclical,1,1,True
+AMZN,Technology,1,1,True
+NFLX,Communication Services,1,1,True
+ENTG,Technology,1,1,True
+CSX,Industrials,1,1,True
+WYNN,Consumer Cyclical,1,1,True
+FOX,Consumer Cyclical,0,1,False
+CNC,Healthcare,1,1,True
+ZION,Financial Services,1,1,True
+CLDR,Technology,1,1,True
+RES,Energy,0,1,False
+CI,Healthcare,1,1,True
+WMB,Energy,1,1,True
+SYNH,Healthcare,1,1,True
+HBI,Consumer Cyclical,1,1,True
+BBT,Financial Services,1,1,True
+PAYX,Industrials,1,1,True
+CELG,Healthcare,1,1,True
+D,Utilities,1,1,True
+CHS,Consumer Cyclical,0,1,False
+CFG,Financial Services,1,1,True
+SU,Energy,1,1,True
+MMM,Industrials,0,1,False
+BIIB,Healthcare,0,1,False
+JBL,Technology,1,0,False
+ACN,Technology,1,1,True
+NTR,Basic Materials,1,0,False
+BRFS,Consumer Defensive,1,0,False
+SBUX,Consumer Cyclical,1,1,True
+PE,Energy,1,1,True
+LVS,Consumer Cyclical,1,1,True
+EGO,Basic Materials,1,0,False
+GSK,Healthcare,1,1,True
+TEVA,Healthcare,0,0,True
+PAA,Energy,0,0,True
+VLO,Energy,1,0,False
+IMAX,Consumer Cyclical,1,1,True
+FNB,Financial Services,1,1,True
+ADSK,Technology,1,1,True
+HD,Consumer Cyclical,1,1,True
+BIDU,Technology,0,1,False
+AR,Energy,0,1,False
+ARNC,Industrials,1,0,False
+VOYA,Financial Services,1,1,True
+MLCO,Consumer Cyclical,1,1,True
+SM,Energy,0,0,True
+NTRS,Financial Services,1,0,False
+DHI,Consumer Cyclical,1,1,True
+UAL,Industrials,1,1,True
+HRB,Consumer Cyclical,0,1,False
+BTU,Basic Materials,0,0,True
+JBGS,Real Estate,1,1,True
+IPG,Consumer Cyclical,1,1,True
+DE,Industrials,1,0,False
+KHC,Consumer Defensive,0,1,False
+COG,Energy,0,1,False
+IBM,Technology,1,1,True
+NYT,Consumer Cyclical,1,1,True
+AAL,Industrials,0,1,False
+OLN,Basic Materials,0,1,False
+JCI,Basic Materials,1,0,False
+VICI,Real Estate,1,0,False
+VST,Utilities,1,1,True
+NWL,Consumer Defensive,1,1,True
+EPD,Energy,1,1,True
+KMB,Consumer Defensive,1,1,True
+AEP,Utilities,1,1,True
+IT,Technology,1,1,True
+CAT,Industrials,1,1,True
+AU,Basic Materials,1,0,False
+MYL,Healthcare,0,1,False
+XRAY,Healthcare,1,1,True
+KKR,Financial Services,1,1,True
+CMC,Basic Materials,1,0,False
+JCP,Consumer Cyclical,0,0,True
+TMUS,Communication Services,1,0,False
+NRG,Utilities,1,1,True
+CPB,Consumer Defensive,1,1,True
+ATHM,Technology,1,1,True
+WRB,Financial Services,1,1,True
+MOMO,Technology,1,1,True
+TGT,Consumer Defensive,1,1,True
+TV,Consumer Cyclical,0,0,True
+GLW,Technology,1,1,True
+MAS,Basic Materials,1,1,True
+DOV,Industrials,1,1,True
+HRL,Consumer Defensive,1,1,True
+S,Communication Services,0,1,False
+TECK,Basic Materials,0,0,True
+AES,Utilities,1,1,True
+PPL,Utilities,1,1,True
+SEE,Consumer Cyclical,1,1,True
+NLY,Real Estate,1,1,True
+FRC,Financial Services,1,0,False
+STX,Technology,1,1,True
+ADBE,Technology,1,1,True
+K,Consumer Defensive,1,1,True
+RTN,Industrials,1,1,True
+M,Consumer Cyclical,0,1,False
+TSLA,Consumer Cyclical,1,1,True
+CY,Technology,1,1,True
+TSM,Technology,1,1,True
+STL,Financial Services,1,1,True
+NYCB,Financial Services,1,1,True
+TRQ,Basic Materials,0,1,False
+NBL,Energy,1,1,True
+BAH,Industrials,1,0,False
+ARI,Real Estate,1,1,True
+MET,Financial Services,1,1,True
+AFL,Financial Services,1,1,True
+TPR,Consumer Cyclical,0,1,False
+WPM,Basic Materials,1,1,True
+LNT,Utilities,1,1,True
+BTG,Basic Materials,1,0,False
+UTX,Industrials,1,1,True
+WLL,Energy,0,0,True
+LKQ,Consumer Cyclical,1,1,True
+PCG,Utilities,0,1,False
+CRZO,Energy,0,1,False
+CENX,Basic Materials,0,0,True
+PGNX,Healthcare,1,0,False
+CLR,Energy,0,1,False
+FCAU,Consumer Cyclical,1,0,False
+IMGN,Healthcare,1,0,False
+HL,Basic Materials,1,0,False
+LULU,Consumer Cyclical,1,1,True
+UAA,Consumer Cyclical,1,1,True
+CAG,Consumer Defensive,1,1,True
+STLD,Basic Materials,1,1,True
+PEP,Consumer Defensive,1,1,True
+SO,Utilities,1,1,True
+ETE,Energy,1,1,True
+COST,Consumer Defensive,1,1,True
+GKOS,Healthcare,1,0,False
+CCI,Real Estate,1,1,True
+ZTO,Industrials,1,0,False
+GS,Financial Services,1,1,True
+ZAYO,Technology,1,1,True
+ADT,Industrials,1,1,True
+ALTR,Technology,1,1,True
+EMR,Industrials,1,1,True
+CNP,Utilities,1,1,True
+ALXN,Healthcare,1,1,True
+COTY,Consumer Defensive,1,1,True
+MA,Financial Services,1,1,True
+AWI,Basic Materials,1,0,False
+ADP,Industrials,1,1,True
+BBVA,Financial Services,1,1,True
+MNST,Consumer Defensive,1,1,True
+AER,Industrials,1,1,True
+GTN,Consumer Cyclical,1,1,True
+CDE,Basic Materials,1,0,False
+NCR,Technology,1,1,True
+AMT,Communication Services,1,1,True
+PSTG,Technology,1,1,True
+SJM,Consumer Defensive,1,1,True
+ETN,Industrials,1,1,True
+DUK,Utilities,1,1,True
+CL,Consumer Defensive,1,1,True
+IDRA,Healthcare,0,0,True
+KAR,Consumer Cyclical,1,1,True
+NEE,Utilities,1,1,True
+PXD,Energy,1,1,True
+WPX,Energy,1,0,False
+ADM,Consumer Defensive,1,0,False
+VTR,Real Estate,1,1,True
+VMW,Technology,1,1,True
+RIGL,Healthcare,0,0,True
+DKS,Consumer Cyclical,1,1,True
+FG,Financial Services,1,0,False
+WTI,Energy,1,0,False
+LRCX,Technology,1,1,True
+NXPI,Technology,1,1,True
+CE,Basic Materials,1,1,True
+HUN,Basic Materials,1,1,True
+CSTM,Basic Materials,1,0,False
+VER,Real Estate,1,1,True
+GPK,Consumer Cyclical,1,0,False
+WELL,Real Estate,1,1,True
+TJX,Consumer Cyclical,1,1,True
+PLD,Real Estate,1,1,True
+KSS,Consumer Cyclical,0,1,False
+XEC,Energy,0,1,False
+DRI,Consumer Cyclical,1,1,True
+ENDP,Healthcare,0,1,False
+ATI,Industrials,0,0,True
+IAG,Basic Materials,1,0,False
+VFC,Consumer Cyclical,1,1,True
+BDN,Real Estate,1,1,True
+HON,Industrials,1,1,True
+YNDX,Technology,1,1,True
+GOOGL,Technology,1,1,True
+ICE,Financial Services,1,1,True
+OMER,Healthcare,1,1,True
+WY,Basic Materials,1,1,True
+BLL,Consumer Cyclical,1,1,True
+CGNX,Technology,1,1,True
+AMGN,Healthcare,1,1,True
+FSLR,Technology,1,0,False
+IVZ,Financial Services,1,1,True
+DG,Consumer Defensive,1,1,True
+SID,Basic Materials,1,1,True
+SLM,Financial Services,1,0,False
+SLCA,Basic Materials,0,1,False
+SGU,Energy,1,1,True
+ODP,Consumer Cyclical,1,1,True
+PK,Real Estate,1,1,True
+TLGT,Healthcare,0,0,True
+TOL,Consumer Cyclical,1,1,True
+PDCO,Healthcare,1,1,True
+Z,Real Estate,1,1,True
+BCO,Industrials,1,1,True
+CME,Financial Services,1,1,True
+BKD,Healthcare,1,0,False
+PPBI,Financial Services,1,1,True
+JMEI,Consumer Cyclical,1,0,False
+ETFC,Financial Services,1,1,True
+AIV,Real Estate,1,1,True
+EXC,Utilities,1,1,True
+TAP,Consumer Defensive,0,1,False
+UNP,Industrials,1,1,True
+BDX,Healthcare,1,1,True
+GME,Consumer Cyclical,0,1,False
+PEGI,Utilities,1,1,True
+MX,Technology,1,1,True
+RLJ,Real Estate,1,1,True
+LB,Consumer Cyclical,0,1,False
+TIF,Consumer Cyclical,1,1,True
+DLPH,Consumer Cyclical,0,1,False
+NCLH,Consumer Cyclical,1,1,True
+NOV,Energy,0,0,True
+CNDT,Industrials,0,1,False
+LMT,Industrials,1,1,True
+MTZ,Industrials,1,1,True
+WEN,Consumer Cyclical,1,1,True
+GPS,Consumer Cyclical,0,1,False
+SYY,Consumer Defensive,1,1,True
+CEF,Financial Services,1,1,True
+WDR,Financial Services,0,1,False
+FTV,Technology,1,1,True
+BKI,Technology,1,1,True
+CTSH,Technology,0,1,False
+HOLX,Healthcare,1,1,True
+EIX,Utilities,1,1,True
+CTXS,Technology,1,1,True
+AMTD,Financial Services,1,0,False
+CPE,Energy,0,1,False
+CF,Basic Materials,1,1,True
+PNC,Financial Services,1,1,True
+SABR,Technology,1,1,True
+WIT,Technology,0,1,False
+LYB,Basic Materials,1,1,True
+DISH,Communication Services,1,0,False
+NE,Energy,0,0,True
+MGA,Consumer Cyclical,1,1,True
+AEO,Consumer Cyclical,0,1,False
+BP,Energy,1,0,False
+XEL,Utilities,1,1,True
+NTNX,Technology,0,1,False
+VVV,Energy,1,1,True
+HQY,Technology,1,0,False
+ARCC,Financial Services,1,1,True
+UPS,Industrials,1,1,True
+MUR,Energy,1,0,False
+VMC,Basic Materials,1,1,True
+NOMD,Consumer Defensive,1,1,True
+ANTM,Healthcare,1,1,True
+SFIX,Consumer Cyclical,1,1,True
+GD,Industrials,1,1,True
+KIM,Real Estate,1,1,True
+FNF,Financial Services,1,1,True
+BXMT,Real Estate,1,1,True
+CHD,Consumer Defensive,1,1,True
+DLR,Real Estate,1,1,True
+IP,Consumer Cyclical,1,1,True
+CLI,Real Estate,1,1,True
+SE,Technology,1,0,False
+CC,Basic Materials,0,1,False
+DAN,Consumer Cyclical,1,1,True
+ZBH,Healthcare,1,1,True
+NVAX,Healthcare,0,1,False
+LPX,Basic Materials,1,1,True
+BBY,Consumer Cyclical,1,1,True
+GRUB,Technology,0,1,False
+BG,Consumer Defensive,1,0,False
+LC,Financial Services,0,0,True
+PWR,Industrials,1,1,True
+TNDM,Healthcare,1,0,False
+DXCM,Healthcare,1,1,True
+NTCT,Technology,1,1,True
+NYMT,Real Estate,1,1,True
+NEM,Basic Materials,1,1,True
+BEN,Financial Services,0,1,False
+SHLX,Energy,1,1,True
+NAVI,Financial Services,1,1,True
+PBH,Consumer Defensive,1,1,True
+SBH,Consumer Cyclical,1,1,True
+NI,Utilities,1,0,False
+LLY,Healthcare,1,1,True
+STNG,Industrials,1,0,False
+TTWO,Technology,1,1,True
+KLAC,Technology,1,1,True
+LADR,Real Estate,1,1,True
+FHN,Financial Services,1,1,True
+GOOG,Technology,1,1,True
+HSIC,Healthcare,1,1,True
+CXO,Energy,0,1,False
+HLX,Energy,1,0,False
+RSG,Industrials,1,1,True
+BIG,Consumer Defensive,1,1,True
+CYH,Healthcare,0,1,False
+PAYC,Technology,1,1,True
+GCP,Basic Materials,0,0,True
+YUM,Consumer Cyclical,1,1,True
+STZ,Consumer Defensive,1,1,True
+LBTYK,Communication Services,1,0,False
+LYG,Financial Services,1,0,False
+MEOH,Basic Materials,0,1,False
+GIII,Consumer Cyclical,1,1,True
+USFD,Consumer Defensive,1,1,True
+SFM,Consumer Defensive,0,1,False
+THC,Healthcare,1,1,True
+DOC,Real Estate,1,1,True
+ALLY,Financial Services,1,1,True
+QRVO,Technology,1,1,True
+TOPS,Industrials,0,0,True
+AVP,Consumer Defensive,1,0,False
+EVR,Financial Services,1,1,True
+CMS,Utilities,1,1,True
+DOX,Technology,1,1,True
+RIO,Basic Materials,1,0,False
+HMHC,Consumer Defensive,0,1,False
+NMRK,Real Estate,1,0,False
+PDM,Real Estate,1,1,True
+KMT,Industrials,1,1,True
+SRNE,Healthcare,1,1,True
+HP,Energy,1,1,True
+FLR,Industrials,0,0,True
+JHG,Financial Services,1,1,True
+FDX,Industrials,0,1,False
+EMN,Basic Materials,1,1,True
+OPK,Healthcare,0,1,False
+LNG,Energy,1,1,True
+WU,Financial Services,1,1,True
+BAX,Healthcare,1,1,True
+AOBC,Industrials,0,1,False
+CARS,Consumer Cyclical,0,1,False
+NUAN,Technology,1,1,True
+TEL,Technology,1,1,True
+MLM,Basic Materials,1,1,True
+GWW,Industrials,1,1,True
+PBF,Energy,0,1,False
+AGN,Healthcare,1,1,True
+GT,Consumer Cyclical,0,1,False
+EA,Technology,1,1,True
+GPRO,Technology,0,0,True
+BW,Technology,0,0,True
+CMI,Industrials,1,1,True
+CNQ,Energy,1,1,True
+HCA,Healthcare,1,1,True
+INXN,Technology,1,1,True
+VRTX,Healthcare,1,1,True
+QTS,Real Estate,1,1,True
+SAN,Financial Services,0,1,False
+CNHI,Industrials,1,0,False
+CNX,Energy,0,0,True
+INFO,Technology,1,1,True
+YY,Technology,0,0,True
+ES,Utilities,1,1,True
+FWONK,Consumer Cyclical,1,1,True
+ARMK,Consumer Cyclical,1,1,True
+OII,Energy,1,0,False
+NOW,Technology,1,1,True
+APTV,Consumer Cyclical,1,1,True
+HOMB,Financial Services,1,1,True
+QD,Financial Services,1,0,False
+NSC,Industrials,1,1,True
+NKTR,Healthcare,0,0,True
+PSX,Energy,1,0,False
+CERN,Technology,1,1,True
+AKAM,Technology,1,1,True
+CS,Financial Services,1,1,True
+PNW,Utilities,1,1,True
+AMH,Real Estate,1,1,True
+CDNS,Technology,1,1,True
+FOE,Basic Materials,0,1,False
+A,Healthcare,1,1,True
+MDRX,Technology,1,1,True
+MOS,Basic Materials,0,0,True
+CTB,Consumer Cyclical,0,1,False
+LPL,Technology,0,0,True
+SKX,Consumer Cyclical,1,1,True
+HST,Real Estate,1,1,True
+UE,Real Estate,1,1,True
+PHM,Consumer Cyclical,1,1,True
+MT,Basic Materials,0,0,True
+ISBC,Financial Services,1,1,True
+CAAP,Industrials,0,1,False
+WRE,Real Estate,1,1,True
+RRC,Energy,0,0,True
+FL,Consumer Cyclical,0,1,False
+NTAP,Technology,1,1,True
+AGO,Financial Services,1,1,True
+DRE,Real Estate,1,0,False
+BBBY,Consumer Cyclical,1,1,True
+CCJ,Basic Materials,0,0,True
+MAR,Consumer Cyclical,1,1,True
+AXTA,Basic Materials,1,1,True
+VIAV,Technology,1,0,False
+SHOO,Consumer Cyclical,1,1,True
+CONE,Real Estate,1,0,False
+LOGM,Technology,1,1,True
+AEM,Basic Materials,1,1,True
+BB,Technology,0,0,True
+CB,Financial Services,1,0,False
+PRU,Financial Services,1,1,True
+RUN,Technology,1,0,False
+MNK,Healthcare,0,1,False
+PVG,Basic Materials,1,0,False
+HA,Industrials,1,1,True
+PBCT,Financial Services,1,1,True
+UCBI,Financial Services,1,1,True
+LBTYA,Communication Services,1,0,False
+AVYA,Industrials,0,1,False
+CBSH,Financial Services,1,1,True
+SC,Financial Services,1,1,True
+ANF,Consumer Cyclical,0,0,True
+HIG,Financial Services,1,1,True
+ITW,Industrials,1,1,True
+AZN,Healthcare,1,1,True
+YELP,Technology,1,1,True
+MTOR,Consumer Cyclical,1,1,True
+EVC,Consumer Cyclical,0,1,False
+IRM,Industrials,1,1,True
+TSCO,Consumer Cyclical,1,1,True
+POST,Consumer Defensive,1,1,True
+EL,Consumer Defensive,1,1,True
+ING,Financial Services,1,1,True
+UBS,Financial Services,1,1,True
+KRG,Real Estate,1,1,True
+VSH,Technology,1,1,True
+TER,Technology,1,1,True
+TWLO,Technology,1,1,True
+TRUE,Technology,0,1,False
+RLGY,Real Estate,0,1,False
+HPP,Real Estate,1,1,True
+CNO,Financial Services,1,1,True
+JNPR,Technology,0,1,False
+URBN,Consumer Cyclical,0,1,False
+ROKU,Communication Services,1,1,True
+FEDU,Consumer Defensive,0,0,True
+ETM,Consumer Cyclical,0,1,False
+BANC,Financial Services,1,1,True
+INVH,Real Estate,1,1,True
+OMF,Financial Services,1,1,True
+LW,Consumer Defensive,1,1,True
+CTRE,Real Estate,1,1,True
+NHI,Real Estate,1,1,True
+CBL,Real Estate,0,0,True
+FE,Utilities,1,0,False
+NOC,Industrials,1,1,True
+ASH,Basic Materials,1,1,True
+MCHP,Technology,1,1,True
+KLIC,Technology,1,1,True
+O,Real Estate,1,1,True
+FET,Energy,0,0,True
+TPH,Consumer Cyclical,1,1,True
+AMX,Communication Services,1,0,False
+FLO,Consumer Defensive,1,1,True
+SPN,Energy,1,0,False
+SHO,Real Estate,1,0,False
+TEAM,Technology,1,0,False
+COF,Financial Services,1,1,True
+PFPT,Technology,1,1,True
+FLT,Industrials,1,1,True
+PLUG,Technology,1,0,False
+HIMX,Technology,0,0,True
+IGT,Consumer Cyclical,1,1,True
+FANG,Energy,0,1,False
+TROW,Financial Services,1,1,True
+ARLP,Basic Materials,0,1,False
+RXN,Industrials,1,1,True
+OSK,Industrials,1,1,True
+DHR,Healthcare,1,1,True
+BLMN,Consumer Cyclical,1,1,True
+AMN,Industrials,1,1,True
+PPC,Consumer Defensive,1,0,False
+GNTX,Consumer Cyclical,1,1,True
+RCL,Consumer Cyclical,1,1,True
+INTU,Technology,1,1,True
+W,Consumer Cyclical,0,1,False
+PCAR,Industrials,1,0,False
+IR,Industrials,1,1,True
+PEG,Utilities,1,1,True
+FBP,Financial Services,1,0,False
+WEC,Utilities,1,1,True
+MDC,Consumer Cyclical,1,0,False
+TISI,Industrials,1,1,True
+YUMC,Consumer Cyclical,1,1,True
+HMSY,Industrials,1,1,True
+IMMU,Healthcare,1,0,False
+ALV,Consumer Cyclical,1,1,True
+BHP,Basic Materials,1,0,False
+BXP,Real Estate,1,1,True
+BYD,Consumer Cyclical,1,1,True
+WGO,Consumer Cyclical,1,1,True
+KSU,Industrials,1,1,True
+PUMP,Energy,0,0,True
+XLNX,Technology,1,1,True
+NOG,Energy,0,1,False
+GLOG,Industrials,0,1,False
+FOLD,Healthcare,0,1,False
+JBHT,Industrials,1,1,True
+FBHS,Consumer Cyclical,1,1,True
+TXT,Industrials,0,1,False
+EXPD,Industrials,1,1,True
+PDLI,Healthcare,1,0,False
+EXPE,Consumer Cyclical,0,1,False
+TVPT,Consumer Cyclical,1,1,True
+WERN,Industrials,1,1,True
+AGI,Basic Materials,1,0,False
+ED,Utilities,1,1,True
+HCSG,Industrials,0,1,False
+DVAX,Healthcare,0,0,True
+DLTR,Consumer Defensive,1,1,True
+GNC,Consumer Defensive,1,0,False
+OUT,Consumer Cyclical,1,1,True
+MTSI,Technology,1,1,True
+DBD,Technology,1,0,False
+CBT,Basic Materials,1,1,True
+STOR,Real Estate,1,1,True
+BGCP,Financial Services,1,1,True
+ABB,Technology,1,1,True
+GTE,Energy,0,0,True
+SWKS,Technology,1,1,True
+CP,Industrials,1,1,True
+PNR,Industrials,1,1,True
+PKI,Healthcare,1,1,True
+IIVI,Technology,1,1,True
+CROX,Consumer Cyclical,1,1,True
+ASB,Financial Services,1,1,True
+UHS,Healthcare,1,1,True
+ENB,Energy,1,1,True
+TDC,Technology,0,1,False
+AG,Basic Materials,1,0,False
+ACHC,Healthcare,1,1,True
+NAT,Industrials,1,1,True
+MLHR,Industrials,1,1,True
+SPG,Real Estate,0,1,False
+ENLK,Energy,1,1,True
+QRTEA,Consumer Cyclical,0,1,False
+TRIP,Consumer Cyclical,0,1,False
+TRP,Energy,1,1,True
+FAST,Industrials,1,1,True
+RH,Consumer Cyclical,1,1,True
+CBRE,Real Estate,1,1,True
+HGV,Consumer Cyclical,1,0,False
+AEG,Financial Services,1,1,True
+BTI,Consumer Defensive,1,0,False
+VIAB,Consumer Cyclical,0,1,False
+NVS,Healthcare,1,1,True
+EWBC,Financial Services,1,1,True
+QSR,Consumer Cyclical,1,1,True
+GSAT,Communication Services,0,0,True
+TTPH,Healthcare,0,0,True
+VRAY,Healthcare,0,0,True
+SGH,Technology,1,0,False
+ALNY,Healthcare,1,0,False
+BMRN,Healthcare,0,1,False
+CA,Technology,1,1,True
+CASA,Technology,0,1,False
+CXP,Real Estate,1,1,True
+AGNC,Real Estate,1,1,True
+DF,Consumer Defensive,0,0,True
+HRTX,Healthcare,0,0,True
+LDOS,Technology,1,1,True
+VSLR,Technology,1,1,True
+MPW,Real Estate,1,1,True
+TXMD,Healthcare,0,0,True
+CIM,Real Estate,1,1,True
+INSM,Healthcare,1,0,False
+ETH,Consumer Cyclical,1,1,True
+NG,Basic Materials,1,0,False
+BGFV,Consumer Cyclical,1,1,True
+AEE,Utilities,1,1,True
+HCC,Basic Materials,1,1,True
+LAMR,Real Estate,1,1,True
+FIT,Technology,1,1,True
+EXEL,Healthcare,0,1,False
+HZNP,Healthcare,1,1,True
+ADI,Technology,1,1,True
+AKBA,Healthcare,1,0,False
+OLED,Technology,1,1,True
+EYE,Consumer Cyclical,1,1,True
+CBS,Consumer Cyclical,0,1,False
+MBT,Communication Services,1,1,True
+TMO,Healthcare,1,1,True
+LBRDA,Communication Services,1,0,False
+HCLP,Basic Materials,0,0,True
+OFC,Real Estate,1,0,False
+STT,Financial Services,1,0,False
+HLF,Consumer Defensive,0,1,False
+WRK,Consumer Cyclical,1,1,True
+BR,Industrials,1,1,True
+MCD,Consumer Cyclical,1,1,True
+PRO,Technology,1,1,True
+SSNC,Technology,1,1,True
+TWO,Real Estate,1,0,False
+CHTR,Communication Services,1,1,True
+AXL,Consumer Cyclical,0,0,True
+ACAD,Healthcare,1,1,True
+VLY,Financial Services,1,1,True
+VOD,Communication Services,1,1,True
+EXTR,Technology,1,1,True
+BTE,Energy,0,0,True
+FEYE,Technology,1,1,True
+SUN,Energy,1,1,True
+VECO,Technology,1,0,False
+ZEN,Technology,1,1,True
+ATEN,Technology,1,0,False
+CRC,Energy,0,0,True
+ATUS,Communication Services,1,1,True
+SIG,Consumer Cyclical,0,1,False
+BDC,Technology,1,1,True
+ERIC,Technology,1,0,False
+XPO,Industrials,1,1,True
+APO,Financial Services,1,1,True
+CRI,Consumer Cyclical,1,1,True
+MANH,Technology,1,1,True
+AGCO,Industrials,1,1,True
+TILE,Consumer Cyclical,1,1,True
+MMC,Financial Services,1,1,True
+GNW,Financial Services,0,1,False
+CAKE,Consumer Cyclical,0,1,False
+CAR,Industrials,1,1,True
+TMHC,Consumer Cyclical,1,0,False
+URI,Industrials,1,1,True
+SPLK,Technology,1,1,True
+VRSN,Technology,1,1,True
+MCO,Industrials,1,1,True
+SLG,Real Estate,1,1,True
+XOG,Energy,0,1,False
+PEIX,Energy,0,0,True
+BZUN,Consumer Cyclical,1,0,False
+PAGS,Technology,1,0,False
+L,Financial Services,1,1,True
+NWSA,Consumer Cyclical,1,1,True
+MBI,Financial Services,1,0,False
+ARNA,Healthcare,1,0,False
+VNO,Real Estate,1,1,True
+PDS,Energy,0,0,True
+BCC,Basic Materials,1,1,True
+TCP,Energy,1,1,True
+ULTA,Consumer Cyclical,1,1,True
+PRTY,Consumer Cyclical,0,1,False
+JACK,Consumer Cyclical,1,1,True
+OGE,Utilities,1,1,True
+QGEN,Healthcare,0,1,False
+CPRT,Consumer Cyclical,1,1,True
+EAT,Consumer Cyclical,0,1,False
+DXC,Technology,0,0,True
+UEC,Basic Materials,0,0,True
+CLVS,Healthcare,0,0,True
+UDR,Real Estate,1,1,True
+KBR,Industrials,1,1,True
+STM,Technology,1,1,True
+AQUA,Industrials,1,1,True
+SBRA,Real Estate,1,1,True
+EQT,Energy,0,1,False
+FISV,Industrials,1,1,True
+SRE,Utilities,1,1,True
+SAVE,Industrials,0,1,False
+DXLG,Consumer Cyclical,0,1,False
+HTA,Real Estate,1,1,True
+NPTN,Technology,1,1,True
+ARQL,Healthcare,1,0,False
+SQM,Basic Materials,0,1,False
+SXT,Basic Materials,1,1,True
+OMC,Consumer Cyclical,1,1,True
+CVA,Industrials,1,1,True
+LXP,Real Estate,1,1,True
+ONB,Financial Services,1,1,True
+FMC,Basic Materials,1,1,True
+KN,Technology,1,1,True
+KW,Real Estate,1,1,True
+SCS,Industrials,1,1,True
+CXW,Industrials,1,0,False
+DFS,Financial Services,1,1,True
+PH,Industrials,1,1,True
+CIEN,Technology,1,1,True
+OIS,Energy,1,0,False
+SEMG,Energy,1,1,True
+SCCO,Basic Materials,1,1,True
+HDS,Industrials,1,1,True
+YEXT,Technology,0,0,True
+NGHC,Financial Services,0,1,False
+ATSG,Industrials,1,1,True
+REVG,Consumer Cyclical,1,0,False
+ALLE,Industrials,1,1,True
+MHK,Consumer Cyclical,1,1,True
+SPWH,Consumer Cyclical,1,1,True
+TWNK,Consumer Defensive,1,1,True
+BMCH,Basic Materials,1,1,True
+EQIX,Technology,1,1,True
+GRA,Basic Materials,1,1,True
+VNTR,Basic Materials,0,1,False
+SUM,Basic Materials,1,1,True
+RDFN,Real Estate,1,0,False
+ERJ,Industrials,0,1,False
+UNM,Financial Services,1,1,True
+NJR,Utilities,1,1,True
+ORBC,Communication Services,0,1,False
+NNN,Real Estate,1,1,True
+PAGP,Energy,0,0,True
+LIVN,Healthcare,0,1,False
+AMAG,Healthcare,0,1,False
+CTAS,Consumer Cyclical,1,1,True
+REGI,Energy,1,1,True
+VRNT,Technology,1,1,True
+HAS,Consumer Cyclical,1,1,True
+AOS,Industrials,1,1,True
+DGX,Healthcare,1,1,True
+CUZ,Real Estate,1,0,False
+HALO,Healthcare,1,1,True
+SGMO,Healthcare,0,1,False
+KTOS,Industrials,1,0,False
+FIS,Technology,1,1,True
+TRN,Industrials,1,1,True
+SPGI,Industrials,1,1,True
+BHF,Financial Services,1,1,True
+RYAAY,Industrials,1,0,False
+AN,Consumer Cyclical,1,1,True
+WDAY,Technology,1,1,True
+ABR,Real Estate,1,1,True
+MCK,Healthcare,1,0,False
+VC,Consumer Cyclical,1,1,True
+ROIC,Real Estate,1,1,True
+HTZ,Industrials,1,1,True
+MUX,Basic Materials,0,1,False
+IEX,Industrials,1,1,True
+MXIM,Technology,1,1,True
+INN,Real Estate,1,1,True
+TROX,Basic Materials,1,0,False
+OEC,Basic Materials,0,0,True
+ATH,Financial Services,1,1,True
+CSOD,Technology,1,1,True
+ABC,Healthcare,1,0,False
+EFX,Industrials,1,1,True
+DPZ,Consumer Cyclical,1,1,True
+ENLC,Energy,0,1,False
+TTM,Consumer Cyclical,1,0,False
+OHI,Real Estate,1,1,True
+SUI,Real Estate,1,1,True
+SIVB,Financial Services,1,1,True
+MPLX,Energy,0,1,False
+EC,Energy,1,0,False
+FIVE,Consumer Cyclical,1,1,True
+LPLA,Financial Services,1,1,True
+SEIC,Financial Services,1,1,True
+SIX,Consumer Cyclical,0,1,False
+VEEV,Technology,1,1,True
+DO,Energy,0,0,True
+FORM,Technology,1,1,True
+BRKS,Technology,1,1,True
+NVO,Healthcare,1,1,True
+SWK,Industrials,1,1,True
+SNDR,Industrials,1,0,False
+SBGL,Basic Materials,1,0,False
+VNDA,Healthcare,0,1,False
+ANH,Real Estate,0,1,False
+HTHT,Consumer Cyclical,1,1,True
+EW,Healthcare,1,1,True
+SKT,Real Estate,0,1,False
+ROK,Industrials,1,1,True
+PENN,Consumer Cyclical,1,1,True
+AMRN,Healthcare,1,0,False
+ALL,Financial Services,1,1,True
+IONS,Healthcare,1,0,False
+APRN,Consumer Cyclical,0,0,True
+NEOS,Healthcare,0,0,True
+KRNY,Financial Services,1,1,True
+SBAC,Communication Services,1,1,True
+MFC,Financial Services,1,1,True
+ZTS,Healthcare,1,1,True
+BUD,Consumer Defensive,1,0,False
+UA,Consumer Cyclical,1,0,False
+AROC,Energy,1,0,False
+THO,Consumer Cyclical,1,1,True
+BGNE,Healthcare,1,0,False
+WB,Technology,0,1,False
+KT,Communication Services,0,1,False
+TGNA,Consumer Cyclical,1,1,True
+CHGG,Consumer Defensive,1,1,True
+WM,Industrials,1,1,True
+ASX,Technology,1,0,False
+BDSI,Healthcare,1,1,True
+THRM,Consumer Cyclical,1,1,True
+UMPQ,Financial Services,1,1,True
+ALB,Basic Materials,0,1,False
+RHI,Industrials,1,1,True
+AKRX,Healthcare,0,1,False
+HLT,Consumer Cyclical,1,1,True
+DNOW,Energy,0,0,True
+PIR,Consumer Cyclical,1,1,True
+WPG,Real Estate,0,1,False
+PNFP,Financial Services,1,1,True
+DRH,Real Estate,1,1,True
+OC,Basic Materials,1,1,True
+CUBE,Real Estate,1,1,True
+GLPI,Real Estate,1,1,True
+CBOE,Financial Services,1,1,True
+RDNT,Healthcare,1,0,False
+AGRO,Consumer Defensive,1,0,False
+AL,Industrials,1,1,True
+EVH,Technology,0,1,False
+UIS,Technology,1,1,True
+JELD,Basic Materials,1,0,False
+TDG,Industrials,1,1,True
+LITE,Technology,1,1,True
+STAY,Consumer Cyclical,1,1,True
+TCF,Financial Services,1,1,True
+RY,Financial Services,1,1,True
+ROST,Consumer Cyclical,1,1,True
+SYK,Healthcare,1,1,True
+REI,Energy,0,1,False
+HR,Real Estate,1,1,True
+TRV,Financial Services,1,0,False
+CSL,Consumer Cyclical,1,1,True
+GWRE,Technology,1,1,True
+ANET,Technology,0,1,False
+PCRX,Healthcare,1,1,True
+CSIQ,Technology,1,1,True
+ICHR,Technology,1,1,True
+WSM,Consumer Cyclical,1,1,True
+EXP,Basic Materials,1,1,True
+BWA,Consumer Cyclical,1,1,True
+SWCH,Technology,1,1,True
+APLE,Real Estate,1,1,True
+ADS,Financial Services,0,1,False
+DRQ,Energy,1,0,False
+AXS,Financial Services,1,0,False
+MTDR,Energy,1,1,True
+CARB,Technology,0,0,True
+CAJ,Industrials,1,1,True
+CNI,Industrials,1,1,True
+TLND,Technology,1,1,True
+ILMN,Healthcare,1,1,True
+ISRG,Healthcare,1,1,True
+CAL,Consumer Cyclical,0,1,False
+SPAR,Industrials,1,0,False
+SAP,Technology,1,1,True
+ESNT,Financial Services,1,1,True
+NMFC,Industrials,1,1,True
+BLDP,Industrials,1,0,False
+OI,Consumer Cyclical,0,1,False
+MDU,Basic Materials,1,0,False
+PSXP,Energy,1,1,True
+CREE,Technology,1,1,True
+CWH,Consumer Cyclical,1,1,True
+DECK,Consumer Cyclical,1,1,True
+COHR,Technology,1,1,True
+SMFG,Financial Services,1,1,True
+FULT,Financial Services,1,1,True
+UNIT,Real Estate,0,1,False
+LAZ,Financial Services,1,1,True
+CASY,Consumer Defensive,1,1,True
+PODD,Healthcare,1,1,True
+NEXA,Basic Materials,0,1,False
+MATW,Consumer Cyclical,0,1,False
+PLNT,Consumer Cyclical,1,1,True
+CAH,Healthcare,1,1,True
+AYI,Technology,1,1,True
+DVA,Healthcare,1,1,True
+AMPE,Healthcare,1,0,False
+REGN,Healthcare,1,1,True
+MELI,Consumer Cyclical,1,0,False
+SGMS,Consumer Cyclical,1,1,True
+WCN,Industrials,1,1,True
+IMMR,Technology,0,1,False
+VKTX,Healthcare,0,0,True
+MYOV,Healthcare,0,0,True
+ABM,Industrials,1,1,True
+NGL,Energy,1,0,False
+ARCO,Consumer Cyclical,1,0,False
+TYME,Industrials,0,0,True
+MGPI,Consumer Defensive,0,1,False
+NTES,Technology,1,1,True
+LTRPA,Technology,0,1,False
+LNC,Financial Services,1,1,True
+NGG,Utilities,1,1,True
+SND,Basic Materials,1,0,False
+GTES,Industrials,1,1,True
+CMA,Financial Services,1,1,True
+ALK,Industrials,1,1,True
+CHL,Communication Services,0,0,True
+PFG,Financial Services,1,1,True
+IRET,Real Estate,1,0,False
+HUM,Healthcare,1,1,True
+TEX,Industrials,1,1,True
+STFC,Financial Services,0,0,True
+SAND,Basic Materials,1,0,False
+JWN,Consumer Cyclical,0,1,False
+HDSN,Industrials,0,1,False
+HFC,Energy,1,1,True
+PQG,Basic Materials,1,1,True
+EDU,Consumer Defensive,1,1,True
+ESRT,Real Estate,1,1,True
+LBRT,Energy,0,1,False
+PEB,Real Estate,1,1,True
+TSN,Consumer Defensive,1,1,True
+HSBC,Financial Services,1,1,True
+OMI,Healthcare,0,1,False
+PTC,Technology,0,1,False
+CDW,Technology,1,1,True
+SBGI,Consumer Cyclical,1,1,True
+MMP,Energy,1,1,True
+PLAY,Consumer Cyclical,0,1,False
+EGOV,Technology,1,1,True
+HDB,Financial Services,1,1,True
+TSE,Consumer Cyclical,0,1,False
+WAL,Financial Services,1,1,True
+SBS,Utilities,1,1,True
+ARE,Real Estate,1,1,True
+EXAS,Healthcare,1,1,True
+TRGP,Energy,1,0,False
+LYV,Consumer Cyclical,1,1,True
+MFA,Real Estate,1,1,True
+ECL,Basic Materials,1,1,True
+RESN,Technology,1,0,False
+ELY,Consumer Cyclical,1,1,True
+ARES,Financial Services,1,1,True
+DDD,Technology,0,1,False
+LPT,Real Estate,1,1,True
+MKC,Consumer Defensive,1,1,True
+WAFD,Financial Services,1,1,True
+BSBR,Financial Services,1,1,True
+CQP,Energy,1,1,True
+PETQ,Healthcare,1,0,False
+RMD,Healthcare,1,1,True
+IRDM,Communication Services,1,1,True
+BKU,Financial Services,1,1,True
+H,Consumer Cyclical,1,1,True
+EXPR,Consumer Cyclical,0,0,True
+AVB,Real Estate,1,1,True
+FII,Financial Services,1,1,True
+INCY,Healthcare,1,1,True
+LBRDK,Communication Services,1,1,True
+NVCN,Healthcare,0,0,True
+TRMB,Technology,1,1,True
+CVEO,Industrials,0,0,True
+TDOC,Technology,1,0,False
+TRU,Industrials,1,1,True
+SOGO,Technology,0,0,True
+XYL,Industrials,1,1,True
+GPOR,Energy,0,1,False
+ACGL,Financial Services,1,1,True
+SFUN,Technology,0,1,False
+SBNY,Financial Services,1,0,False
+GRFS,Healthcare,1,1,True
+DY,Industrials,0,1,False
+MGP,Real Estate,1,1,True
+SNE,Technology,1,1,True
+MAA,Real Estate,1,1,True
+AEL,Financial Services,1,0,False
+GOGO,Communication Services,1,0,False
+TSU,Communication Services,1,1,True
+WES,Energy,0,1,False
+QUAD,Industrials,0,1,False
+RYN,Basic Materials,1,1,True
+SYNA,Technology,1,1,True
+VSTO,Consumer Cyclical,0,1,False
+BHVN,Healthcare,1,0,False
+PPG,Basic Materials,1,1,True
+WAIR,Industrials,1,0,False
+ORI,Financial Services,1,1,True
+TPC,Industrials,0,0,True
+XHR,Real Estate,1,1,True
+WMGI,Healthcare,1,0,False
+MC,Financial Services,0,1,False
+COT,Consumer Defensive,0,1,False
+DDS,Consumer Cyclical,1,1,True
+TMST,Basic Materials,0,0,True
+FR,Real Estate,1,1,True
+NMIH,Financial Services,1,1,True
+MTCH,Technology,1,1,True
+TRHC,Technology,0,1,False
+XNET,Technology,1,0,False
+CIG,Utilities,0,0,True
+HAIN,Consumer Defensive,1,1,True
+TIVO,Technology,0,1,False
+CUK,Consumer Cyclical,1,0,False
+ECHO,Industrials,1,1,True
+MSI,Technology,1,1,True
+PDCE,Energy,0,1,False
+FNV,Basic Materials,1,1,True
+LPSN,Technology,1,1,True
+TELL,Energy,1,0,False
+KMX,Consumer Cyclical,1,0,False
+LFC,Financial Services,1,1,True
+ESPR,Healthcare,1,0,False
+BRX,Real Estate,1,1,True
+LH,Healthcare,1,1,True
+PLCE,Consumer Cyclical,0,1,False
+NBHC,Financial Services,1,1,True
+FND,Consumer Cyclical,1,1,True
+MOH,Healthcare,1,0,False
+SSW,Industrials,1,1,True
+FUL,Basic Materials,1,1,True
+MRC,Energy,1,0,False
+EXR,Real Estate,1,1,True
+SCHL,Consumer Cyclical,0,1,False
+CPG,Energy,1,0,False
+ADTN,Technology,0,1,False
+WHR,Technology,1,1,True
+HSY,Consumer Defensive,1,1,True
+HTGM,Healthcare,0,0,True
+SEAS,Consumer Cyclical,1,0,False
+BECN,Industrials,0,1,False
+BPOP,Financial Services,1,1,True
+PGRE,Real Estate,1,1,True
+COO,Healthcare,1,1,True
+JT,Technology,0,0,True
+WRI,Real Estate,1,1,True
+COMM,Technology,0,1,False
+ABEO,Healthcare,0,0,True
+CPT,Real Estate,1,1,True
+SHOP,Technology,1,0,False
+RETA,Healthcare,1,0,False
+MWA,Industrials,1,1,True
+BLUE,Healthcare,0,0,True
+GWB,Financial Services,1,1,True
+WPRT,Consumer Cyclical,1,0,False
+CORT,Healthcare,0,1,False
+BOOT,Consumer Cyclical,1,1,True
+ALEX,Real Estate,1,0,False
+TKR,Industrials,1,1,True
+RL,Consumer Cyclical,1,1,True
+XXII,Healthcare,0,0,True
+CLGX,Industrials,1,1,True
+AXGN,Healthcare,0,0,True
+MASI,Healthcare,1,1,True
+OKTA,Technology,1,0,False
+TD,Financial Services,1,1,True
+BRO,Financial Services,1,1,True
+ALSN,Consumer Cyclical,1,1,True
+FAF,Financial Services,1,1,True
+BRKR,Healthcare,1,1,True
+G,Industrials,1,1,True
+CFX,Industrials,1,1,True
+PANW,Technology,1,1,True
+GPC,Consumer Cyclical,1,1,True
+ELP,Utilities,1,1,True
+KMPR,Financial Services,1,1,True
+BGS,Consumer Defensive,0,1,False
+NBIX,Healthcare,1,1,True
+CHKP,Technology,1,1,True
+JAZZ,Healthcare,1,1,True
+CMCO,Industrials,1,1,True
+CRS,Industrials,1,1,True
+AMC,Consumer Cyclical,0,1,False
+BVN,Basic Materials,0,0,True
+EXK,Basic Materials,1,0,False
+BLK,Financial Services,1,1,True
+IMO,Energy,1,1,True
+WRD,Energy,1,1,True
+CATM,Industrials,1,1,True
+POR,Utilities,1,1,True
+BBL,Basic Materials,1,0,False
+GCI,Consumer Cyclical,0,1,False
+ORLY,Consumer Cyclical,1,1,True
+GDI,Technology,1,1,True
+FFIV,Technology,0,1,False
+KNL,Industrials,1,1,True
+HOG,Consumer Cyclical,1,1,True
+STWD,Real Estate,1,1,True
+PRTA,Healthcare,1,0,False
+UNVR,Basic Materials,1,1,True
+TUP,Consumer Cyclical,0,1,False
+FSM,Basic Materials,1,0,False
+XIN,Real Estate,1,0,False
+SCWX,Technology,1,1,True
+PTLA,Healthcare,1,0,False
+PAAS,Basic Materials,1,0,False
+ADNT,Consumer Cyclical,1,1,True
+TRUP,Financial Services,1,0,False
+HAE,Healthcare,1,1,True
+WTR,Utilities,1,1,True
+HOPE,Financial Services,1,1,True
+MRTN,Industrials,1,1,True
+DLX,Industrials,1,1,True
+UUUU,Basic Materials,0,0,True
+GEO,Real Estate,0,1,False
+LMNX,Healthcare,1,1,True
+AAP,Consumer Cyclical,1,1,True
+AON,Financial Services,1,1,True
+TGTX,Healthcare,1,1,True
+SKM,Communication Services,0,0,True
+MAN,Industrials,1,1,True
+CRUS,Technology,1,1,True
+AAXN,Industrials,1,1,True
+DPLO,Healthcare,0,1,False
+TXRH,Consumer Cyclical,0,1,False
+BEAT,Healthcare,0,1,False
+TNET,Industrials,1,0,False
+LZB,Consumer Cyclical,1,1,True
+FTSI,Energy,0,1,False
+EEFT,Industrials,1,1,True
+COL,Industrials,0,0,True
+BXS,Financial Services,1,1,True
+CVGI,Consumer Cyclical,1,1,True
+TRI,Industrials,1,1,True
+GMS,Basic Materials,1,1,True
+PBI,Industrials,0,1,False
+XON,Healthcare,0,0,True
+JEC,Industrials,1,1,True
+RJF,Financial Services,1,1,True
+WWD,Industrials,1,1,True
+SNY,Healthcare,1,1,True
+TTC,Industrials,1,1,True
+BAM,Real Estate,1,1,True
+SHW,Basic Materials,1,1,True
+AMP,Financial Services,1,1,True
+SNR,Real Estate,1,1,True
+WSO,Technology,1,1,True
+ATO,Utilities,1,1,True
+SNH,Real Estate,0,1,False
+HOLI,Industrials,0,1,False
+CBAY,Healthcare,0,0,True
+STAG,Real Estate,1,1,True
+WAB,Industrials,1,1,True
+FSCT,Technology,1,1,True
+AVEO,Healthcare,0,0,True
+PFGC,Consumer Defensive,1,1,True
+MUSA,Consumer Cyclical,1,1,True
+RCM,Technology,1,1,True
+DK,Energy,1,1,True
+CM,Financial Services,1,1,True
+SWX,Utilities,1,1,True
+SSRM,Basic Materials,1,0,False
+MTW,Industrials,1,0,False
+WUBA,Technology,1,1,True
+IRS,Real Estate,0,1,False
+MIC,Industrials,1,1,True
+TSEM,Technology,1,0,False
+DNLI,Healthcare,0,1,False
+CHRW,Industrials,0,1,False
+SPPI,Healthcare,0,0,True
+TTD,Technology,1,1,True
+ASML,Technology,1,1,True
+IDXX,Healthcare,1,1,True
+ONCS,Healthcare,0,1,False
+SRPT,Healthcare,1,1,True
+LTM,Industrials,0,1,False
+SGEN,Healthcare,1,1,True
+CNK,Consumer Cyclical,0,1,False
+TCBI,Financial Services,1,1,True
+OCN,Financial Services,1,1,True
+MDB,Technology,1,0,False
+DXPE,Industrials,1,1,True
+NWBI,Financial Services,1,1,True
+ENS,Technology,0,1,False
+RP,Technology,1,1,True
+TFX,Healthcare,1,1,True
+EQC,Real Estate,1,1,True
+DEI,Real Estate,1,1,True
+UFS,Basic Materials,1,1,True
+MTN,Consumer Cyclical,1,1,True
+SPR,Industrials,1,1,True
+PSEC,Financial Services,1,1,True
+LEE,Consumer Cyclical,0,1,False
+QDEL,Healthcare,1,1,True
+WETF,Financial Services,0,0,True
+BBX,Real Estate,0,1,False
+NRZ,Real Estate,1,0,False
+HBM,Basic Materials,0,0,True
+INVA,Healthcare,0,1,False
+BJRI,Consumer Cyclical,0,1,False
+EVRI,Consumer Cyclical,1,1,True
+LCI,Healthcare,1,1,True
+FLIR,Technology,1,1,True
+PII,Consumer Cyclical,1,1,True
+JCOM,Technology,1,1,True
+CTT,Real Estate,1,0,False
+TLRD,Consumer Cyclical,0,0,True
+AHH,Real Estate,1,1,True
+ZS,Technology,1,1,True
+MIDD,Industrials,1,1,True
+SF,Financial Services,1,1,True
+RCII,Industrials,1,0,False
+DCP,Energy,1,0,False
+VEDL,Basic Materials,0,1,False
+SERV,Industrials,1,1,True
+UN,Consumer Defensive,1,1,True
+WBS,Financial Services,1,1,True
+CRON,Healthcare,0,0,True
+WST,Healthcare,1,1,True
+SCI,Consumer Cyclical,1,1,True
+BERY,Consumer Cyclical,1,1,True
+ENIA,Utilities,1,0,False
+TEUM,Communication Services,0,0,True
+TPRE,Financial Services,1,0,False
+CCK,Consumer Cyclical,1,0,False
+MAG,Basic Materials,1,0,False
+WNC,Industrials,1,1,True
+CSGP,Industrials,1,1,True
+ETR,Utilities,1,1,True
+TTMI,Technology,1,1,True
+FLS,Industrials,1,1,True
+ARWR,Healthcare,1,1,True
+IAC,Technology,1,1,True
+VIRT,Financial Services,0,1,False
+UCTT,Technology,1,1,True
+WBT,Industrials,1,1,True
+ANGI,Technology,0,1,False
+BCOR,Technology,0,1,False
+CISN,Technology,0,1,False
+CRH,Basic Materials,1,1,True
+GHL,Financial Services,0,1,False
+IPI,Basic Materials,1,1,True
+HIW,Real Estate,1,1,True
+BLDR,Basic Materials,1,0,False
+CNXM,Energy,1,1,True
+MOBL,Technology,1,1,True
+CPS,Consumer Cyclical,0,1,False
+CHEF,Consumer Defensive,1,1,True
+APH,Technology,1,1,True
+REXR,Real Estate,1,1,True
+KURA,Healthcare,0,0,True
+GTHX,Healthcare,1,0,False
+TK,Energy,1,0,False
+MRNS,Healthcare,0,0,True
+GPRE,Basic Materials,1,1,True
+TERP,Utilities,1,0,False
+RS,Industrials,1,1,True
+HIBB,Consumer Cyclical,1,1,True
+ALGN,Healthcare,1,1,True
+HEI,Industrials,1,1,True
+CFR,Financial Services,1,1,True
+YPF,Energy,0,1,False
+LGIH,Consumer Cyclical,1,1,True
+CMG,Consumer Cyclical,1,1,True
+REG,Real Estate,1,1,True
+AVXL,Healthcare,1,0,False
+AXDX,Healthcare,1,1,True
+RPM,Basic Materials,1,1,True
+BNS,Financial Services,1,0,False
+BWXT,Industrials,1,1,True
+WOW,Communication Services,0,1,False
+PRMW,Consumer Defensive,0,1,False
+WOR,Industrials,1,1,True
+NIHD,Communication Services,0,0,True
+NUVA,Healthcare,1,1,True
+ADVM,Healthcare,1,0,False
+SWIR,Technology,0,1,False
+BIOS,Healthcare,1,0,False
+DNKN,Consumer Cyclical,1,1,True
+FRAN,Consumer Cyclical,1,1,True
+HUBS,Technology,1,1,True
+FRPT,Consumer Defensive,1,1,True
+ARAY,Healthcare,0,0,True
+QUOT,Consumer Cyclical,0,1,False
+COLD,Real Estate,1,1,True
+DERM,Healthcare,1,0,False
+NS,Energy,1,0,False
+FMX,Consumer Defensive,1,1,True
+GLIBA,Communication Services,1,1,True
+HTLD,Industrials,1,1,True
+VRNS,Technology,1,1,True
+EV,Financial Services,1,1,True
+AYTU,Healthcare,1,1,True
+PKG,Consumer Cyclical,1,1,True
+CINF,Financial Services,1,1,True
+ANY,Technology,0,0,True
+NAV,Industrials,1,1,True
+DENN,Consumer Cyclical,1,1,True
+CLX,Consumer Defensive,1,1,True
+VGR,Consumer Defensive,1,1,True
+HII,Industrials,1,1,True
+GLRE,Financial Services,1,0,False
+PRGO,Healthcare,1,1,True
+RRR,Consumer Cyclical,1,0,False
+SINA,Technology,0,1,False
+PRAH,Healthcare,1,1,True
+MSA,Industrials,1,1,True
+SQNS,Technology,0,0,True
+ZG,Real Estate,1,1,True
+ACM,Industrials,1,1,True
+HLI,Financial Services,1,1,True
+CMP,Basic Materials,1,1,True
+GGAL,Financial Services,0,1,False
+FTNT,Technology,1,1,True
+CLDX,Healthcare,0,1,False
+CZZ,Utilities,1,1,True
+MCF,Energy,1,0,False
+SPB,Consumer Defensive,1,0,False
+IFF,Basic Materials,0,1,False
+MDCA,Consumer Cyclical,1,0,False
+VCEL,Healthcare,0,1,False
+SRCL,Industrials,1,1,True
+RBBN,Communication Services,0,0,True
+RYI,Industrials,1,0,False
+MAC,Real Estate,0,1,False
+SENS,Healthcare,0,0,True
+IQV,Healthcare,1,1,True
+WNS,Industrials,1,1,True
+WTFC,Financial Services,1,1,True
+SGRY,Healthcare,1,1,True
+VIV,Communication Services,1,1,True
+XPER,Technology,1,1,True
+FCF,Financial Services,1,1,True
+VG,Communication Services,0,1,False
+SNP,Energy,0,0,True
+AGEN,Healthcare,1,0,False
+RPAI,Real Estate,1,1,True
+WLH,Consumer Cyclical,1,1,True
+IVR,Real Estate,1,1,True
+RPD,Technology,1,1,True
+GLNG,Industrials,0,0,True
+PETS,Consumer Defensive,1,1,True
+TTI,Energy,1,0,False
+CETV,Consumer Cyclical,1,0,False
+THS,Consumer Defensive,0,1,False
+AMBA,Technology,1,1,True
+RRD,Industrials,0,0,True
+AMKR,Technology,1,1,True
+MNTA,Healthcare,1,0,False
+TBI,Industrials,1,1,True
+COUP,Technology,1,1,True
+MNKD,Healthcare,1,0,False
+ICPT,Healthcare,1,1,True
+MITK,Technology,0,1,False
+BHE,Technology,1,0,False
+PZZA,Consumer Cyclical,1,1,True
+BGI,Consumer Cyclical,0,0,True
+BCE,Communication Services,1,0,False
+POOL,Consumer Cyclical,1,1,True
+EQM,Energy,0,1,False
+MGRC,Industrials,1,1,True
+MDCO,Healthcare,1,0,False
+FANH,Financial Services,1,1,True
+INFN,Technology,1,0,False
+MMSI,Healthcare,0,1,False
+PTN,Healthcare,1,1,True
+ENIC,Utilities,1,1,True
+SPXC,Industrials,1,0,False
+ARCH,Basic Materials,0,1,False
+AM,Energy,0,1,False
+TGI,Industrials,1,0,False
+AWK,Utilities,1,1,True
+REDU,Consumer Defensive,0,1,False
+R,Industrials,1,1,True
+SREV,Technology,1,1,True
+BKH,Utilities,1,1,True
+AVD,Basic Materials,1,1,True
+CMCM,Technology,0,1,False
+UPLD,Technology,1,1,True
+GPN,Industrials,1,1,True
+COLM,Consumer Cyclical,1,1,True
+GLUU,Technology,0,1,False
+HE,Utilities,1,1,True
+SJI,Utilities,1,1,True
+CCOI,Communication Services,1,1,True
+SEDG,Technology,1,1,True
+LLNW,Technology,1,1,True
+PBYI,Healthcare,0,1,False
+IRWD,Healthcare,1,1,True
+CSGS,Technology,1,1,True
+FBM,Industrials,1,1,True
+VAR,Healthcare,1,1,True
+CNSL,Communication Services,0,1,False
+SUPN,Healthcare,0,1,False
+DPW,Technology,0,0,True
+UGI,Utilities,0,1,False
+COLL,Healthcare,1,1,True
+DRNA,Healthcare,1,1,True
+BKCC,Financial Services,1,1,True
+CBD,Consumer Cyclical,1,1,True
+SMG,Basic Materials,1,1,True
+PACB,Healthcare,0,0,True
+AVDL,Healthcare,1,0,False
+JNCE,Healthcare,1,0,False
+WAT,Technology,1,1,True
+NLNK,Healthcare,1,1,True
+FLOW,Industrials,1,1,True
+MKSI,Technology,1,1,True
+CWT,Utilities,1,1,True
+RESI,Real Estate,1,0,False
+MTB,Financial Services,1,1,True
+CRL,Healthcare,1,1,True
+CDK,Technology,1,1,True
+FDS,Financial Services,1,1,True
+JLL,Real Estate,1,1,True
+HSC,Basic Materials,1,0,False
+LNTH,Healthcare,1,1,True
+SAIL,Technology,0,1,False
+PNM,Utilities,1,1,True
+AT,Utilities,1,0,False
+PACW,Financial Services,1,1,True
+MXL,Technology,1,1,True
+OLLI,Consumer Defensive,0,1,False
+LOCO,Consumer Cyclical,1,1,True
+RUSHA,Consumer Cyclical,1,1,True
+APPN,Technology,1,0,False
+RHE,Healthcare,0,0,True
+AVY,Industrials,1,1,True
+WMS,Consumer Cyclical,1,1,True
+MCFT,Consumer Cyclical,0,1,False
+DHT,Industrials,1,0,False
+AVA,Utilities,1,1,True
+WLK,Basic Materials,1,1,True
+PSA,Real Estate,1,1,True
+AAWW,Industrials,0,1,False
+WIX,Technology,1,1,True
+USCR,Basic Materials,1,1,True
+INO,Healthcare,0,0,True
+NTB,Financial Services,1,1,True
+AAOI,Technology,0,0,True
+ERI,Consumer Cyclical,1,1,True
+FOSL,Consumer Cyclical,0,1,False
+STE,Healthcare,1,1,True
+OSTK,Consumer Cyclical,0,0,True
+FOXF,Consumer Cyclical,1,1,True
+MDGS,Healthcare,0,0,True
+AZPN,Technology,1,1,True
+DCI,Industrials,1,1,True
+FTAI,Industrials,1,1,True
+DSS,Industrials,0,0,True
+ONVO,Healthcare,0,0,True
+AIZ,Financial Services,1,1,True
+IRBT,Technology,0,1,False
+SBLK,Industrials,1,0,False
+CWST,Industrials,1,1,True
+BURL,Consumer Defensive,1,1,True
+LEG,Consumer Cyclical,1,1,True
+COR,Real Estate,1,1,True
+AAN,Industrials,1,1,True
+SOI,Energy,1,1,True
+PRA,Financial Services,0,1,False
+GPMT,Real Estate,1,1,True
+NBLX,Energy,0,1,False
+INT,Energy,1,0,False
+UMBF,Financial Services,1,1,True
+LPG,Industrials,1,1,True
+SOHU,Technology,0,1,False
+IPHI,Technology,1,1,True
+FGEN,Healthcare,0,0,True
+BAP,Financial Services,1,1,True
+BC,Consumer Cyclical,1,1,True
+FTR,Communication Services,0,0,True
+OCSL,Financial Services,1,0,False
+MBUU,Consumer Cyclical,1,1,True
+ACHN,Healthcare,1,0,False
+HTLF,Financial Services,1,1,True
+BLKB,Technology,1,1,True
+SNN,Healthcare,1,1,True
+CUBI,Financial Services,1,1,True
+ENPH,Technology,1,1,True
+CADE,Financial Services,1,1,True
+AJRD,Industrials,1,1,True
+APAM,Financial Services,1,1,True
+PEI,Real Estate,1,0,False
+HLIT,Technology,1,1,True
+ST,Technology,1,1,True
+IPAR,Consumer Defensive,1,1,True
+CRTO,Technology,0,1,False
+AKR,Real Estate,1,1,True
+MRTX,Healthcare,1,0,False
+ZUMZ,Consumer Cyclical,1,1,True
+MLI,Industrials,1,1,True
+ROG,Technology,1,1,True
+UMC,Technology,1,1,True
+QHC,Healthcare,0,1,False
+BAND,Technology,1,1,True
+ABMD,Healthcare,0,1,False
+KEYS,Technology,1,1,True
+HRC,Healthcare,1,1,True
+SSP,Consumer Cyclical,0,1,False
+FRT,Real Estate,1,1,True
+NDSN,Industrials,1,1,True
+ALSK,Communication Services,1,1,True
+ASC,Industrials,1,0,False
+BATRK,Consumer Cyclical,1,1,True
+STC,Financial Services,1,1,True
+IRT,Real Estate,1,1,True
+FFBC,Financial Services,1,1,True
+DLTH,Consumer Cyclical,0,1,False
+LII,Industrials,1,1,True
+OSG,Industrials,1,0,False
+GOOS,Consumer Cyclical,0,1,False
+AXTI,Technology,0,1,False
+EGRX,Healthcare,1,1,True
+BMO,Financial Services,1,1,True
+EVV,Financial Services,1,1,True
+DBVT,Healthcare,1,0,False
+EPAM,Technology,1,1,True
+GDEN,Consumer Cyclical,1,1,True
+PVH,Consumer Cyclical,1,1,True
+CRBP,Healthcare,0,0,True
+MTD,Healthcare,1,1,True
+BCRX,Healthcare,0,0,True
+ASNA,Consumer Cyclical,0,1,False
+TOWN,Financial Services,1,0,False
+CBPO,Healthcare,1,1,True
+FIVN,Technology,1,0,False
+EGHT,Communication Services,1,1,True
+ESS,Real Estate,1,1,True
+JKHY,Industrials,1,1,True
+INGR,Consumer Defensive,1,1,True
+HT,Real Estate,0,0,True
+EPAY,Technology,1,1,True
+BAS,Energy,0,0,True
+CPHI,Healthcare,1,0,False
+ADSW,Industrials,1,1,True
+WPC,Real Estate,1,1,True
+VRSK,Industrials,1,1,True
+ICLR,Healthcare,1,0,False
+AQMS,Industrials,0,0,True
+AWR,Utilities,1,1,True
+DRRX,Healthcare,1,0,False
+VRA,Consumer Cyclical,1,0,False
+WLKP,Basic Materials,1,0,False
+BFAM,Consumer Cyclical,1,1,True
+IOVA,Healthcare,1,1,True
+TEN,Consumer Cyclical,0,0,True
+SUP,Consumer Cyclical,0,1,False
+LL,Consumer Cyclical,0,0,True
+TRXC,Healthcare,0,1,False
+LEA,Consumer Cyclical,1,1,True
+APD,Basic Materials,1,1,True
+OSUR,Healthcare,0,1,False
+AVT,Technology,1,0,False
+SXC,Basic Materials,0,0,True
+ATTO,Industrials,0,1,False
+NVCR,Healthcare,1,1,True
+DAR,Industrials,1,1,True
+PCH,Real Estate,1,1,True
+SAFM,Consumer Defensive,1,1,True
+CRIS,Healthcare,1,0,False
+RMBS,Technology,1,1,True
+PRTK,Healthcare,0,0,True
+AJG,Financial Services,1,1,True
+RGA,Financial Services,1,1,True
+GMLP,Industrials,0,0,True
+TAST,Consumer Cyclical,0,1,False
+KB,Financial Services,0,0,True
+OTEX,Technology,1,1,True
+FHB,Financial Services,1,0,False
+SANM,Technology,1,1,True
+SNV,Financial Services,1,1,True
+MOD,Consumer Cyclical,0,1,False
+MGI,Financial Services,0,1,False
+WBC,Consumer Cyclical,1,1,True
+SNA,Industrials,1,1,True
+ELGX,Healthcare,0,1,False
+KOPN,Technology,0,0,True
+CLDT,Real Estate,1,1,True
+AIMT,Healthcare,1,0,False
+OSBC,Financial Services,1,1,True
+BRKL,Financial Services,1,1,True
+DEO,Consumer Defensive,1,1,True
+UNFI,Consumer Defensive,0,1,False
+ONDK,Financial Services,0,1,False
+SAH,Consumer Cyclical,1,1,True
+NVTA,Healthcare,1,1,True
+HZO,Consumer Cyclical,0,1,False
+TNK,Industrials,1,0,False
+SATS,Technology,1,1,True
+KANG,Healthcare,1,1,True
+SLGN,Consumer Cyclical,1,1,True
+IBKR,Financial Services,0,0,True
+HMC,Consumer Cyclical,1,0,False
+GPI,Consumer Cyclical,1,1,True
+CPA,Industrials,1,1,True
+ROCK,Basic Materials,1,1,True
+RNWK,Technology,0,0,True
+HOV,Consumer Cyclical,1,0,False
+ASTE,Industrials,1,0,False
+CTLT,Healthcare,1,1,True
+DMRC,Technology,1,0,False
+CUTR,Healthcare,1,0,False
+UEPS,Industrials,0,1,False
+AMCX,Consumer Cyclical,0,1,False
+NMM,Industrials,1,0,False
+SAIC,Technology,1,1,True
+DIOD,Technology,1,1,True
+RARE,Healthcare,1,0,False
+INOV,Technology,1,1,True
+TPX,Consumer Cyclical,1,1,True
+CBM,Healthcare,1,1,True
+MYOK,Healthcare,1,0,False
+BNFT,Technology,0,1,False
+PLYA,Consumer Cyclical,1,1,True
+CSFL,Financial Services,1,1,True
+CFFN,Financial Services,1,1,True
+HSII,Industrials,1,1,True
+GDS,Technology,1,0,False
+UL,Consumer Defensive,1,1,True
+LOPE,Consumer Defensive,1,1,True
+TCMD,Healthcare,1,1,True
+HVT,Consumer Cyclical,1,1,True
+GOLD,Basic Materials,1,0,False
+RLI,Financial Services,1,1,True
+KEX,Industrials,1,0,False
+SMTC,Technology,1,1,True
+OR,Basic Materials,1,1,True
+XNCR,Healthcare,0,0,True
+B,Industrials,1,1,True
+DIN,Consumer Cyclical,1,1,True
+SCHN,Industrials,1,1,True
+OMN,Basic Materials,1,1,True
+NM,Industrials,1,0,False
+HSON,Industrials,0,0,True
+UBSI,Financial Services,1,1,True
+FPRX,Healthcare,0,0,True
+GVA,Industrials,0,1,False
+EVTC,Technology,1,1,True
+FLXN,Healthcare,1,0,False
+DESP,Consumer Cyclical,1,0,False
+ODFL,Industrials,1,1,True
+CFMS,Healthcare,1,0,False
+NVTR,Healthcare,0,0,True
+TGP,Industrials,1,0,False
+ENZ,Healthcare,0,0,True
+KRA,Basic Materials,1,1,True
+WLTW,Financial Services,1,1,True
+CDXS,Healthcare,0,0,True
+FCFS,Financial Services,1,1,True
+I,Communication Services,0,1,False
+URG,Basic Materials,0,0,True
+VREX,Healthcare,1,1,True
+KDMN,Healthcare,1,0,False
+CNS,Financial Services,1,1,True
+LM,Financial Services,1,1,True
+BITA,Technology,0,1,False
+LXU,Basic Materials,0,0,True
+SON,Consumer Cyclical,1,1,True
+GDOT,Financial Services,0,1,False
+ROP,Industrials,1,1,True
+NLS,Consumer Cyclical,0,1,False
+SITE,Industrials,1,1,True
+LSXMK,Consumer Cyclical,1,0,False
+MSTR,Technology,1,0,False
+COHU,Technology,1,0,False
+RBA,Industrials,1,1,True
+OTIC,Healthcare,1,0,False
+OPB,Financial Services,1,0,False
+CPRX,Healthcare,1,0,False
+ZIOP,Healthcare,1,1,True
+GRMN,Technology,1,1,True
+MEDP,Healthcare,1,1,True
+TEF,Communication Services,0,1,False
+CSLT,Technology,0,0,True
+KEP,Utilities,0,1,False
+CEIX,Basic Materials,0,1,False
+GIL,Consumer Cyclical,0,1,False
+NEWM,Consumer Cyclical,0,1,False
+NVGS,Industrials,1,0,False
+MCC,Financial Services,0,1,False
+MCY,Financial Services,1,1,True
+TWOU,Technology,0,0,True
+MDGL,Healthcare,0,0,True
+AZUL,Industrials,1,0,False
+TCS,Consumer Cyclical,0,1,False
+ACTG,Industrials,0,0,True
+GATX,Industrials,1,1,True
+EPC,Consumer Defensive,0,0,True
+SRG,Real Estate,1,1,True
+AMWD,Basic Materials,1,1,True
+CATY,Financial Services,1,1,True
+MSM,Industrials,1,1,True
+COLB,Financial Services,1,1,True
+GBT,Healthcare,1,0,False
+GEF,Consumer Cyclical,1,1,True
+LOMA,Basic Materials,0,1,False
+MPAA,Consumer Cyclical,1,0,False
+HCHC,Communication Services,0,0,True
+GGG,Industrials,1,1,True
+BPFH,Financial Services,1,1,True
+TDS,Communication Services,0,1,False
+COWN,Financial Services,1,1,True
+MTH,Consumer Cyclical,1,1,True
+GTLS,Industrials,1,1,True
+SKYW,Industrials,1,1,True
+CONN,Consumer Cyclical,0,1,False
+EZPW,Financial Services,0,1,False
+GNL,Real Estate,1,0,False
+BXC,Basic Materials,0,1,False
+NPO,Industrials,1,1,True
+RCI,Communication Services,1,1,True
+BSMX,Financial Services,1,1,True
+MHLD,Financial Services,0,1,False
+MLNX,Technology,1,1,True
+AERI,Healthcare,0,0,True
+BAK,Basic Materials,0,1,False
+SEM,Healthcare,1,0,False
+CCU,Consumer Defensive,0,0,True
+KPTI,Healthcare,1,1,True
+GEL,Energy,1,0,False
+AVID,Technology,1,1,True
+HEP,Energy,0,1,False
+SLDB,Healthcare,0,0,True
+GNRC,Technology,1,0,False
+WD,Financial Services,1,1,True
+SHLO,Industrials,0,0,True
+DNB,Industrials,1,1,True
+TBBK,Financial Services,1,1,True
+IVC,Healthcare,1,0,False
+TOUR,Consumer Cyclical,0,0,True
+ITT,Industrials,1,1,True
+MTRX,Energy,1,1,True
+SPWR,Technology,1,0,False
+CHH,Consumer Cyclical,1,1,True
+TOT,Energy,1,0,False
+PGTI,Basic Materials,0,1,False
+MDP,Consumer Cyclical,0,1,False
+SLAB,Technology,1,1,True
+WWE,Consumer Cyclical,0,1,False
+RNG,Technology,1,1,True
+EHC,Healthcare,1,1,True
+PEGA,Technology,1,1,True
+NOVT,Technology,1,1,True
+DTE,Utilities,1,1,True
+MYGN,Healthcare,0,1,False
+DEA,Real Estate,1,1,True
+MINI,Consumer Cyclical,1,1,True
+PXLW,Technology,1,0,False
+ERF,Energy,0,0,True
+AEIS,Technology,1,1,True
+ETV,Financial Services,1,1,True
+LHCG,Healthcare,1,1,True
+NDAQ,Financial Services,1,1,True
+NFG,Energy,0,1,False
+WSFS,Financial Services,1,1,True
+CNNE,Financial Services,1,0,False
+WCC,Industrials,1,1,True
+BRC,Industrials,1,1,True
+PIRS,Healthcare,1,0,False
+AAT,Real Estate,1,1,True
+ENR,Technology,1,1,True
+NSA,Real Estate,1,1,True
+ABIO,Healthcare,0,0,True
+RFP,Basic Materials,0,1,False
+SRRA,Healthcare,0,0,True
+EE,Utilities,1,1,True
+VRTU,Technology,1,1,True
+MMYT,Consumer Cyclical,0,0,True
+MEET,Technology,1,1,True
+UTHR,Healthcare,0,1,False
+CALM,Consumer Defensive,1,0,False
+ALRM,Technology,0,0,True
+USAC,Energy,1,1,True
+MKTX,Financial Services,1,1,True
+LSCC,Technology,1,1,True
+PTGX,Healthcare,1,0,False
+WSR,Real Estate,1,1,True
+RWT,Real Estate,1,1,True
+ECPG,Financial Services,1,1,True
+MCRN,Industrials,1,1,True
+SFL,Industrials,1,1,True
+AME,Technology,1,1,True
+BKNG,Consumer Cyclical,1,1,True
+CSTE,Basic Materials,1,0,False
+QNST,Technology,0,1,False
+SR,Utilities,1,1,True
+PMTS,Industrials,0,1,False
+SIMO,Technology,1,1,True
+AMED,Healthcare,1,1,True
+HRTG,Financial Services,0,1,False
+VNET,Technology,0,0,True
+AYX,Technology,1,1,True
+CHRS,Healthcare,1,0,False
+KEM,Technology,1,0,False
+BWB,Financial Services,1,1,True
+BEDU,Consumer Defensive,0,0,True
+CIB,Financial Services,1,0,False
+FSP,Real Estate,1,0,False
+IIIN,Basic Materials,0,1,False
+BLD,Basic Materials,1,1,True
+HFWA,Financial Services,0,1,False
+SCSC,Technology,1,0,False
+QADA,Technology,1,1,True
+SALT,Industrials,1,1,True
+BHLB,Financial Services,1,1,True
+CASI,Healthcare,0,0,True
+TSC,Financial Services,1,1,True
+RE,Financial Services,1,1,True
+LUNA,Technology,1,0,False
+FBC,Financial Services,1,0,False
+CLS,Technology,0,0,True
+SFNC,Financial Services,1,1,True
+GBX,Industrials,0,1,False
+GWR,Industrials,1,1,True
+VRS,Basic Materials,0,1,False
+HUBB,Technology,1,1,True
+PPDF,Financial Services,0,0,True
+GLOW,Communication Services,1,0,False
+GTT,Communication Services,0,1,False
+PBA,Energy,1,1,True
+LTS,Financial Services,1,1,True
+UAN,Basic Materials,1,0,False
+GMED,Healthcare,1,1,True
+VERU,Healthcare,1,0,False
+PB,Financial Services,1,1,True
+VVI,Industrials,1,1,True
+MRCY,Technology,1,1,True
+VSI,Consumer Cyclical,1,1,True
+TU,Communication Services,1,1,True
+LCII,Consumer Cyclical,1,1,True
+IBKC,Financial Services,1,1,True
+ICFI,Industrials,1,1,True
+ACIW,Industrials,1,1,True
+ONCE,Healthcare,1,0,False
+PTCT,Healthcare,1,1,True
+TFSL,Financial Services,1,1,True
+ATNM,Healthcare,0,0,True
+CSU,Healthcare,0,0,True
+RRGB,Consumer Cyclical,1,1,True
+HUD,Consumer Cyclical,0,1,False
+CECE,Industrials,1,0,False
+IART,Healthcare,1,1,True
+CHU,Communication Services,0,0,True
+APTS,Real Estate,1,1,True
+III,Industrials,0,0,True
+JILL,Consumer Cyclical,0,1,False
+YRCW,Industrials,0,1,False
+CNAT,Healthcare,0,1,False
+WWW,Consumer Cyclical,1,0,False
+LXRX,Healthcare,0,1,False
+PRAA,Financial Services,1,1,True
+RPT,Real Estate,1,1,True
+STMP,Technology,0,1,False
+SCVL,Consumer Cyclical,1,1,True
+CORE,Consumer Defensive,1,1,True
+AFG,Financial Services,1,1,True
+KRNT,Industrials,1,1,True
+CYD,Industrials,1,1,True
+MYRG,Industrials,1,1,True
+BANR,Financial Services,1,1,True
+CRESY,Consumer Defensive,0,1,False
+FPH,Real Estate,1,0,False
+MNR,Real Estate,1,1,True
+FN,Technology,1,1,True
+CPK,Utilities,1,1,True
+ORC,Real Estate,1,1,True
+SLF,Financial Services,1,1,True
+KL,Basic Materials,1,0,False
+VSAT,Technology,1,1,True
+WK,Technology,1,1,True
+ADMS,Healthcare,0,0,True
+FUN,Consumer Cyclical,1,1,True
+SIGI,Financial Services,1,1,True
+CACI,Technology,1,1,True
+RMTI,Healthcare,0,0,True
+SUPV,Financial Services,0,1,False
+ALKS,Healthcare,0,1,False
+GLDD,Industrials,1,1,True
+BOH,Financial Services,1,1,True
+FIZZ,Consumer Defensive,0,1,False
+LIQT,Industrials,1,0,False
+CEPU,Utilities,0,1,False
+SBBP,Healthcare,0,0,True
+DORM,Consumer Cyclical,0,1,False
+EVBG,Technology,1,1,True
+AKCA,Healthcare,0,0,True
+AEMD,Technology,0,0,True
+ENV,Industrials,1,1,True
+AIN,Consumer Cyclical,1,1,True
+CAE,Industrials,1,1,True
+ATRS,Healthcare,1,1,True
+QES,Energy,0,1,False
+HXL,Industrials,1,1,True
+SWM,Basic Materials,1,1,True
+TUSK,Energy,0,1,False
+EME,Industrials,1,1,True
+VUZI,Technology,0,0,True
+OFG,Financial Services,1,1,True
+GLT,Basic Materials,1,0,False
+PHG,Industrials,1,1,True
+MERC,Basic Materials,1,1,True
+HEES,Industrials,1,1,True
+CMO,Real Estate,1,0,False
+AZO,Consumer Cyclical,1,1,True
+AGFS,Basic Materials,0,1,False
+WCG,Healthcare,1,1,True
+JKS,Technology,1,1,True
+SNCR,Technology,0,1,False
+PTI,Healthcare,0,0,True
+LKSD,Industrials,0,1,False
+TM,Consumer Cyclical,1,0,False
+UVV,Consumer Defensive,1,0,False
+EIGI,Technology,0,1,False
+BIOC,Healthcare,0,0,True
+HUBG,Industrials,1,1,True
+LAD,Consumer Cyclical,1,1,True
+TWI,Industrials,0,0,True
+SNBR,Consumer Cyclical,1,1,True
+RYAM,Basic Materials,0,1,False
+LOGI,Technology,1,1,True
+DCO,Industrials,1,1,True
+FLWS,Consumer Cyclical,1,1,True
+FCPT,Real Estate,1,1,True
+EBIX,Technology,0,1,False
+ENBL,Energy,0,1,False
+MFG,Financial Services,1,0,False
+ANAB,Healthcare,0,0,True
+ABUS,Healthcare,0,0,True
+CBB,Communication Services,1,1,True
+MSG,Consumer Cyclical,1,1,True
+ANSS,Technology,1,1,True
+STML,Healthcare,1,0,False
+NVRO,Healthcare,1,0,False
+MMS,Industrials,1,1,True
+HTGC,Financial Services,1,0,False
+CBRL,Consumer Cyclical,1,1,True
+GEN,Healthcare,1,1,True
+ADXS,Healthcare,0,1,False
+ITRI,Technology,1,1,True
+GBCI,Financial Services,1,1,True
+NR,Energy,0,0,True
+ERII,Industrials,1,1,True
+CLMT,Energy,1,0,False
+AINV,Financial Services,1,1,True
+FMS,Healthcare,1,1,True
+RDY,Healthcare,1,1,True
+CERS,Healthcare,0,0,True
+SDRL,Energy,0,1,False
+BL,Technology,1,1,True
+TLK,Communication Services,1,1,True
+SSYS,Technology,1,1,True
+HTH,Financial Services,1,1,True
+LKFN,Financial Services,1,1,True
+ANGO,Healthcare,0,1,False
+PKX,Basic Materials,0,0,True
+SVM,Basic Materials,1,1,True
+ENT,Consumer Cyclical,0,1,False
+AEGN,Industrials,1,1,True
+AXE,Basic Materials,1,0,False
+LE,Consumer Cyclical,1,0,False
+ACIA,Technology,1,0,False
+PAG,Consumer Cyclical,1,1,True
+PRIM,Industrials,1,1,True
+CTMX,Healthcare,0,0,True
+RDUS,Healthcare,1,0,False
+BBGI,Consumer Cyclical,0,1,False
+CASH,Financial Services,1,1,True
+SITO,Communication Services,0,0,True
+PINC,Technology,1,0,False
+GWPH,Healthcare,1,1,True
+SFBS,Financial Services,1,1,True
+SMPL,Consumer Defensive,1,1,True
+FNKO,Consumer Cyclical,1,1,True
+RBS,Financial Services,1,1,True
+SSTK,Technology,1,1,True
+DCM,Communication Services,0,1,False
+ZBRA,Industrials,1,1,True
+BMA,Financial Services,0,1,False
+BGG,Industrials,0,1,False
+GABC,Financial Services,1,1,True
+NCMI,Consumer Cyclical,1,1,True
+PCSB,Financial Services,1,1,True
+EROS,Consumer Cyclical,0,0,True
+INST,Technology,1,1,True
+FDP,Consumer Defensive,1,1,True
+MGLN,Healthcare,1,1,True
+ADMP,Healthcare,0,0,True
+EDIT,Healthcare,1,0,False
+TLRA,Technology,1,1,True
+AB,Financial Services,1,1,True
+GAIA,Consumer Cyclical,0,0,True
+PRGS,Technology,1,1,True
+TRMK,Financial Services,1,1,True
+ACRS,Healthcare,0,0,True
+MSGN,Consumer Cyclical,0,1,False
+NUS,Consumer Defensive,0,1,False
+SPSC,Technology,1,1,True
+EFSC,Financial Services,1,1,True
+BOKF,Financial Services,1,1,True
+MD,Healthcare,0,1,False
+PSMT,Consumer Defensive,1,1,True
+FTK,Energy,1,0,False
+UVSP,Financial Services,1,1,True
+OCFC,Financial Services,1,1,True
+RADA,Industrials,1,0,False
+PAM,Utilities,0,1,False
+GOGL,Industrials,0,0,True
+CNCE,Healthcare,0,0,True
+CCRN,Industrials,1,1,True
+JBT,Industrials,1,1,True
+PJT,Financial Services,1,1,True
+RUBI,Technology,1,0,False
+BKE,Consumer Cyclical,1,1,True
+RHP,Real Estate,1,1,True
+IRTC,Healthcare,0,0,True
+ADC,Real Estate,1,1,True
+ENVA,Financial Services,1,1,True
+QTNT,Healthcare,1,0,False
+CMRE,Industrials,1,0,False
+EGAN,Technology,1,1,True
+ZGNX,Healthcare,1,0,False
+TPIC,Industrials,0,0,True
+ARW,Technology,1,0,False
+TA,Consumer Cyclical,0,0,True
+AMG,Financial Services,0,1,False
+FRTA,Basic Materials,1,1,True
+INWK,Consumer Cyclical,1,1,True
+PI,Technology,1,1,True
+NMR,Financial Services,1,0,False
+UCFC,Financial Services,1,1,True
+MNRO,Consumer Cyclical,1,1,True
+FMBI,Financial Services,1,1,True
+ACLS,Technology,1,1,True
+ITCI,Healthcare,1,0,False
+LSI,Real Estate,1,1,True
+VIVO,Healthcare,0,1,False
+MCHX,Consumer Cyclical,1,1,True
+EPR,Real Estate,1,1,True
+CRAI,Industrials,1,1,True
+DSGX,Technology,1,1,True
+ORIT,Financial Services,1,1,True
+CTIC,Healthcare,1,0,False
+AIT,Industrials,1,1,True
+HCM,Healthcare,1,0,False
+TREE,Financial Services,1,1,True
+MODN,Technology,1,1,True
+AXAS,Energy,0,1,False
+CTSO,Healthcare,0,0,True
+SNX,Industrials,1,1,True
+ACOR,Healthcare,0,1,False
+PCTY,Technology,1,1,True
+TX,Basic Materials,0,0,True
+BSAC,Financial Services,0,1,False
+ALIM,Healthcare,1,1,True
+LILAK,Communication Services,1,1,True
+PTR,Energy,0,0,True
+ASUR,Technology,1,0,False
+SSL,Energy,0,0,True
+GSS,Basic Materials,1,0,False
+HMN,Financial Services,1,1,True
+NTLA,Healthcare,1,0,False
+AEHR,Technology,1,0,False
+BMI,Technology,1,1,True
+CHCT,Real Estate,1,1,True
+MSBI,Financial Services,1,1,True
+GNMK,Healthcare,0,0,True
+HLNE,Financial Services,1,1,True
+HHC,Real Estate,1,0,False
+PMT,Real Estate,1,1,True
+APPS,Technology,1,1,True
+SHAK,Consumer Cyclical,1,1,True
+GOLF,Consumer Cyclical,1,0,False
+WTTR,Industrials,1,1,True
+VYGR,Healthcare,1,0,False
+DOOR,Basic Materials,1,1,True
+LGND,Healthcare,0,1,False
+EBSB,Financial Services,1,1,True
+CENTA,Consumer Defensive,0,1,False
+EGP,Real Estate,1,1,True
+SNPS,Technology,1,1,True
+FCEL,Utilities,0,0,True
+PSO,Consumer Cyclical,0,0,True
+EEX,Industrials,0,1,False
+UIHC,Financial Services,0,0,True
+VCV,Financial Services,1,1,True
+BIO,Healthcare,1,1,True
+E,Energy,1,0,False
+MIME,Technology,1,1,True
+KRC,Real Estate,1,1,True
+RVNC,Healthcare,0,0,True
+NATI,Technology,0,1,False
+CRR,Energy,0,0,True
+ACCO,Industrials,1,1,True
+PLXS,Technology,1,0,False
+TRNO,Real Estate,1,1,True
+ASGN,Industrials,1,1,True
+CVNA,Consumer Cyclical,1,0,False
+MANT,Technology,1,1,True
+GSUM,Technology,0,0,True
+OMAB,Industrials,1,1,True
+VNOM,Energy,0,1,False
+TCPC,Financial Services,1,0,False
+IBTX,Financial Services,1,1,True
+ZN,Energy,0,0,True
+DSPG,Technology,1,1,True
+FWONA,Consumer Cyclical,1,1,True
+GER,Financial Services,1,1,True
+QTRX,Healthcare,1,0,False
+ZEAL,Healthcare,1,1,True
+ATKR,Industrials,1,1,True
+UHAL,Industrials,1,1,True
+SJR,Communication Services,1,1,True
+SIGM,Technology,1,1,True
+BOLD,Healthcare,1,0,False
+AI,Financial Services,0,1,False
+SA,Basic Materials,1,0,False
+BCOV,Technology,1,1,True
+ACBI,Financial Services,1,1,True
+CVBF,Financial Services,1,1,True
+NGVT,Basic Materials,1,1,True
+BY,Financial Services,1,1,True
+LSXMA,Consumer Cyclical,1,1,True
+PATK,Consumer Cyclical,1,1,True
+INUV,Consumer Cyclical,0,0,True
+SYNC,Technology,0,1,False
+VBLT,Healthcare,1,0,False
+VMI,Industrials,1,1,True
+BPMC,Healthcare,1,0,False
+SASR,Financial Services,1,1,True
+AYR,Industrials,1,1,True
+NBRV,Healthcare,0,0,True
+TVTY,Healthcare,0,1,False
+FCN,Industrials,1,1,True
+ATOM,Technology,1,0,False
+WEX,Industrials,1,1,True
+NXST,Consumer Cyclical,1,1,True
+CURO,Financial Services,1,1,True
+KODK,Technology,1,1,True
+MTRN,Basic Materials,1,1,True
+TECH,Healthcare,1,1,True
+WING,Consumer Cyclical,1,1,True
+ALO,Basic Materials,0,0,True
+HAFC,Financial Services,1,1,True
+FI,Energy,0,0,True
+ADES,Industrials,1,0,False
+ATRA,Healthcare,0,0,True
+BOOM,Industrials,1,1,True
+GLYC,Healthcare,0,0,True
+SPH,Utilities,1,1,True
+GCAP,Financial Services,0,1,False
+NEWR,Technology,0,1,False
+VCRA,Technology,0,1,False
+BZH,Consumer Cyclical,1,0,False
+PRI,Financial Services,1,1,True
+TCO,Real Estate,0,1,False
+EXLS,Industrials,1,1,True
+QLYS,Technology,1,1,True
+QURE,Healthcare,1,0,False
+RTRX,Industrials,0,0,True
+STAR,Real Estate,1,1,True
+WIFI,Technology,0,1,False
+CLSD,Healthcare,1,1,True
+ICUI,Healthcare,0,1,False
+WVE,Healthcare,0,0,True
+MNTX,Industrials,0,0,True
+LSTR,Industrials,1,1,True
+LTC,Real Estate,1,1,True
+ELS,Real Estate,1,1,True
+TGS,Utilities,0,1,False
+CDR,Real Estate,1,0,False
+ABDC,Financial Services,1,1,True
+VGZ,Basic Materials,1,0,False
+ARTX,Industrials,1,0,False
+NAK,Basic Materials,0,0,True
+ASIX,Basic Materials,0,1,False
+GMZ,Financial Services,0,1,False
+SYBX,Healthcare,0,0,True
+TEO,Communication Services,0,1,False
+WASH,Financial Services,1,1,True
+XLRN,Healthcare,1,0,False
+RMNI,Technology,0,1,False
+LMAT,Healthcare,1,1,True
+HMI,Technology,1,0,False
+SRT,Industrials,1,1,True
+BPY,Real Estate,1,1,True
+CBZ,Industrials,1,1,True
+BLRX,Healthcare,0,0,True
+KIRK,Consumer Cyclical,0,1,False
+CDZI,Utilities,1,0,False
+SAIA,Industrials,1,1,True
+CRMD,Healthcare,1,1,True
+THM,Basic Materials,1,0,False
+RRTS,Industrials,0,1,False
+OGS,Utilities,1,1,True
+AY,Utilities,1,1,True
+CMD,Healthcare,0,1,False
+LBY,Consumer Defensive,0,0,True
+RBC,Technology,1,1,True
+CIO,Real Estate,1,1,True
+FNJN,Technology,0,0,True
+ADUS,Healthcare,1,1,True
+LBAI,Financial Services,1,1,True
+NWE,Utilities,1,1,True
+PLT,Technology,0,1,False
+GOL,Industrials,1,1,True
+ELF,Consumer Defensive,1,1,True
+VAC,Consumer Cyclical,1,1,True
+OMCL,Technology,1,1,True
+UFPI,Basic Materials,1,1,True
+IBOC,Financial Services,1,1,True
+ZAGG,Consumer Cyclical,0,1,False
+VEC,Industrials,1,1,True
+WBK,Financial Services,1,1,True
+HELE,Consumer Defensive,1,1,True
+CRHM,Healthcare,1,1,True
+FGP,Consumer Cyclical,0,0,True
+XSPA,Technology,0,1,False
+BRG,Real Estate,1,1,True
+GSV,Basic Materials,0,0,True
+AIR,Industrials,1,1,True
+POL,Basic Materials,1,1,True
+EBR,Utilities,1,0,False
+TRVG,Consumer Cyclical,0,1,False
+HIIQ,Healthcare,0,1,False
+SIEN,Healthcare,0,0,True
+HASI,Real Estate,1,1,True
+CVI,Energy,1,1,True
+CPLP,Industrials,0,0,True
+JOBS,Industrials,1,1,True
+BXG,Consumer Cyclical,0,1,False
+FBK,Financial Services,1,1,True
+NICE,Technology,1,0,False
+KALU,Basic Materials,1,1,True
+ACC,Real Estate,1,1,True
+RELX,Consumer Cyclical,1,1,True
+CAMP,Technology,0,1,False
+ICON,Consumer Cyclical,1,0,False
+JE,Utilities,0,0,True
+ASPS,Industrials,0,1,False
+RGS,Consumer Cyclical,1,0,False
+ZIXI,Technology,1,1,True
+ITGR,Healthcare,1,1,True
+CGBD,Financial Services,1,1,True
+MNLO,Healthcare,0,0,True
+RGEN,Healthcare,1,1,True
+KRO,Basic Materials,1,1,True
+SB,Industrials,0,0,True
+AOSL,Technology,1,0,False
+CVGW,Consumer Defensive,1,1,True
+DSKE,Industrials,0,0,True
+DGICA,Financial Services,1,1,True
+CCO,Consumer Cyclical,0,1,False
+TUES,Consumer Defensive,1,1,True
+SILC,Technology,0,1,False
+RGLD,Basic Materials,1,1,True
+GBDC,Financial Services,1,0,False
+OCSI,Financial Services,1,1,True
+TSG,Consumer Cyclical,1,1,True
+EBS,Healthcare,0,1,False
+EURN,Industrials,1,0,False
+QTWO,Technology,1,1,True
+SAGE,Healthcare,0,0,True
+NOA,Energy,1,0,False
+APVO,Healthcare,0,0,True
+CALX,Technology,0,1,False
+PLAB,Technology,1,0,False
+RARX,Healthcare,1,0,False
+AGYS,Technology,1,1,True
+AHT,Real Estate,0,0,True
+CALA,Healthcare,1,0,False
+TGH,Industrials,1,0,False
+CG,Financial Services,1,0,False
+EVA,Basic Materials,1,0,False
+ATR,Consumer Cyclical,1,1,True
+TRST,Financial Services,1,1,True
+SYKE,Technology,1,1,True
+TEDU,Consumer Defensive,0,0,True
+FWRD,Industrials,1,1,True
+ABG,Consumer Cyclical,1,0,False
+LBC,Financial Services,1,1,True
+MARA,Industrials,0,0,True
+DS,Real Estate,0,1,False
+FLIC,Financial Services,1,1,True
+ARDX,Healthcare,1,0,False
+ARR,Real Estate,0,0,True
+ADAP,Healthcare,0,0,True
+ATGE,Consumer Defensive,0,0,True
+WHD,Energy,1,1,True
+LECO,Industrials,1,1,True
+TRVN,Healthcare,1,0,False
+FSB,Financial Services,1,1,True
+CATO,Consumer Cyclical,1,0,False
+MTX,Basic Materials,1,1,True
+FENG,Technology,1,0,False
+LJPC,Healthcare,0,0,True
+TREX,Basic Materials,1,1,True
+FTS,Utilities,1,1,True
+CCS,Consumer Cyclical,1,1,True
+CHUY,Consumer Cyclical,1,1,True
+MLNT,Healthcare,0,0,True
+CLB,Energy,0,0,True
+CTRN,Consumer Cyclical,1,1,True
+VSTM,Healthcare,0,0,True
+CIT,Financial Services,1,1,True
+UTI,Consumer Defensive,1,0,False
+GPL,Basic Materials,0,0,True
+INTT,Technology,0,1,False
+BGB,Financial Services,1,1,True
+IBP,Basic Materials,1,1,True
+CENT,Consumer Defensive,0,1,False
+SPTN,Consumer Defensive,0,1,False
+NML,Financial Services,1,1,True
+NSIT,Technology,1,1,True
+AMRS,Basic Materials,0,0,True
+EQBK,Financial Services,0,1,False
+SEAC,Technology,1,0,False
+RNGR,Energy,1,1,True
+INAP,Technology,0,1,False
+ARGX,Healthcare,1,0,False
+RACE,Consumer Cyclical,1,1,True
+STKL,Consumer Defensive,0,0,True
+ROL,Industrials,0,1,False
+KOP,Basic Materials,1,0,False
+STAA,Healthcare,1,1,True
+TCRD,Financial Services,1,1,True
+LFUS,Technology,1,1,True
+CYBR,Technology,1,1,True
+APOG,Basic Materials,1,1,True
+MPWR,Technology,1,1,True
+MBIN,Financial Services,0,1,False
+HI,Consumer Cyclical,0,1,False
+FELE,Industrials,1,1,True
+SSB,Financial Services,1,1,True
+WBAI,Consumer Cyclical,1,0,False
+ADMA,Healthcare,1,0,False
+GLP,Energy,1,1,True
+ITRN,Technology,0,0,True
+RYB,Consumer Defensive,0,0,True
+MAIN,Financial Services,1,1,True
+INNT,Healthcare,0,0,True
+LANC,Consumer Defensive,0,1,False
+PRGX,Industrials,0,1,False
+CHDN,Consumer Cyclical,1,1,True
+DQ,Technology,1,1,True
+TYL,Technology,1,1,True
+AKTS,Technology,1,0,False
+SLP,Technology,1,1,True
+RICK,Consumer Cyclical,0,1,False
+AVAL,Financial Services,1,1,True
+PER,Energy,0,1,False
+ENTA,Healthcare,0,1,False
+EXPO,Industrials,1,1,True
+FRGI,Consumer Cyclical,0,1,False
+HBIO,Healthcare,0,0,True
+DAKT,Technology,0,0,True
+AREX,Energy,0,0,True
+AAON,Basic Materials,1,1,True
+SKY,Consumer Cyclical,1,0,False
+FPL,Financial Services,1,1,True
+NSTG,Healthcare,1,0,False
+MOV,Consumer Cyclical,0,1,False
+GTS,Financial Services,1,0,False
+CDMO,Healthcare,1,0,False
+ARC,Technology,0,1,False
+KFY,Industrials,1,1,True
+GIB,Technology,1,1,True
+BCEI,Energy,1,0,False
+DFIN,Financial Services,0,1,False
+NNI,Financial Services,1,1,True
+FLDM,Technology,0,1,False
+NTG,Financial Services,0,1,False
+CGIX,Healthcare,0,1,False
+RMAX,Real Estate,1,1,True
+CRVS,Healthcare,1,0,False
+HRI,Industrials,1,0,False
+LDL,Industrials,0,1,False
+PRLB,Industrials,0,1,False
+BIT,Financial Services,1,1,True
+TECD,Technology,1,1,True
+MMI,Real Estate,1,1,True
+CR,Industrials,1,1,True
+CEQP,Utilities,1,0,False
+CRWS,Consumer Cyclical,1,0,False
+LNN,Industrials,1,1,True
+TCBK,Financial Services,1,1,True
+SNDX,Healthcare,1,0,False
+CLNC,Real Estate,0,1,False
+INGN,Healthcare,0,0,True
+GSBC,Financial Services,1,1,True
+PEN,Healthcare,1,0,False
+AGR,Utilities,1,1,True
+ANIP,Healthcare,1,1,True
+CETX,Industrials,0,0,True
+GNCA,Healthcare,0,0,True
+LQDT,Consumer Cyclical,0,0,True
+PRSC,Healthcare,0,1,False
+TKC,Communication Services,1,0,False
+VMO,Financial Services,1,1,True
+CRK,Energy,1,0,False
+CYOU,Technology,1,1,True
+FATE,Healthcare,1,0,False
+NWN,Utilities,1,1,True
+OSS,Technology,0,0,True
+TSQ,Consumer Cyclical,1,1,True
+CODI,Industrials,1,1,True
+PBPB,Consumer Cyclical,0,1,False
+WAAS,Utilities,1,1,True
+TACO,Consumer Cyclical,0,1,False
+AVAV,Industrials,0,1,False
+IPGP,Technology,1,1,True
+TTOO,Healthcare,0,0,True
+SAM,Consumer Defensive,1,1,True
+DSX,Industrials,0,0,True
+IIPR,Real Estate,1,0,False
+AMPH,Healthcare,0,1,False
+CNMD,Healthcare,1,1,True
+NDLS,Consumer Cyclical,0,0,True
+ABCB,Financial Services,1,1,True
+BPMP,Energy,1,1,True
+PJC,Financial Services,1,1,True
+CYTK,Healthcare,1,0,False
+NTGR,Technology,0,0,True
+FONR,Healthcare,0,1,False
+UNF,Consumer Cyclical,1,1,True
+RDWR,Technology,1,1,True
+GIFI,Industrials,0,0,True
+BGSF,Industrials,1,1,True
+CACC,Financial Services,1,1,True
+EMO,Financial Services,1,1,True
+OSIS,Technology,1,1,True
+NEP,Utilities,1,1,True
+EPM,Energy,0,1,False
+CNA,Financial Services,1,1,True
+CRY,Healthcare,0,0,True
+LAUR,Consumer Defensive,1,1,True
+SSD,Industrials,1,1,True
+AMBC,Financial Services,1,0,False
+TSLX,Financial Services,1,1,True
+CLUB,Consumer Cyclical,0,1,False
+PVAC,Energy,0,1,False
+OLBK,Financial Services,1,1,True
+TNC,Industrials,1,1,True
+PNNT,Financial Services,1,1,True
+AGIO,Healthcare,1,0,False
+UGP,Energy,0,1,False
+CO,Healthcare,0,1,False
+TDY,Technology,1,1,True
+SFE,Financial Services,1,0,False
+TRTX,Financial Services,1,1,True
+RUTH,Consumer Cyclical,0,1,False
+SRCE,Financial Services,1,1,True
+HURN,Industrials,1,1,True
+MNDO,Technology,1,0,False
+PSDO,Technology,1,1,True
+HABT,Consumer Cyclical,1,1,True
+AKG,Basic Materials,1,0,False
+CSS,Consumer Cyclical,0,1,False
+EARS,Healthcare,0,0,True
+SRI,Consumer Cyclical,1,1,True
+WLDN,Industrials,0,1,False
+MEI,Technology,1,1,True
+SBSI,Financial Services,1,1,True
+OPTT,Utilities,0,0,True
+WSC,Industrials,1,0,False
+QCRH,Financial Services,1,1,True
+HSKA,Healthcare,1,1,True
+CVTI,Industrials,0,1,False
+USPH,Healthcare,1,1,True
+JOE,Real Estate,1,1,True
+RMR,Real Estate,0,1,False
+CARA,Healthcare,1,0,False
+CMRX,Healthcare,0,0,True
+WATT,Technology,0,0,True
+CEI,Energy,0,0,True
+TARO,Healthcare,1,1,True
+SBCF,Financial Services,1,1,True
+TRTN,Industrials,1,1,True
+NNBR,Industrials,1,1,True
+SBT,Financial Services,1,1,True
+PARR,Energy,1,1,True
+OSB,Basic Materials,1,1,True
+SSTI,Technology,0,0,True
+NNA,Industrials,1,1,True
+PRPO,Healthcare,0,0,True
+SPKE,Utilities,1,1,True
+REX,Basic Materials,1,1,True
+EXTN,Energy,0,0,True
+FRME,Financial Services,1,1,True
+CBPX,Basic Materials,1,1,True
+IDCC,Communication Services,0,1,False
+ROLL,Industrials,1,1,True
+SNNA,Healthcare,0,0,True
+NSSC,Industrials,1,1,True
+NEO,Healthcare,1,1,True
+FPI,Real Estate,1,1,True
+GLOB,Technology,1,1,True
+EMKR,Technology,0,0,True
+BNED,Consumer Cyclical,0,1,False
+FBNC,Financial Services,1,1,True
+SLRC,Financial Services,1,1,True
+CPF,Financial Services,1,0,False
+DSL,Financial Services,1,1,True
+MTBC,Technology,1,0,False
+NEON,Technology,1,0,False
+NXE,Basic Materials,0,0,True
+PBFX,Energy,1,1,True
+RCUS,Healthcare,0,0,True
+AMRC,Industrials,1,1,True
+SD,Energy,0,1,False
+EGLE,Industrials,0,0,True
+MTEM,Healthcare,1,0,False
+EGBN,Financial Services,0,1,False
+THG,Financial Services,1,1,True
+NOAH,Financial Services,0,0,True
+IDA,Utilities,1,1,True
+MED,Consumer Cyclical,0,1,False
+FRBK,Financial Services,0,1,False
+PEBO,Financial Services,1,1,True
+ODT,Healthcare,1,0,False
+LOB,Financial Services,1,1,True
+ETJ,Financial Services,1,1,True
+MCRI,Consumer Cyclical,1,1,True
+CRNT,Technology,0,1,False
+WMK,Consumer Defensive,0,1,False
+IDT,Communication Services,1,0,False
+INSG,Technology,1,0,False
+ROYT,Energy,0,1,False
+RTTR,Healthcare,0,0,True
+TNP,Industrials,1,0,False
+NGS,Energy,0,0,True
+CPSI,Technology,1,1,True
+AGS,Consumer Cyclical,0,1,False
+SCPH,Healthcare,1,0,False
+GPRK,Energy,1,1,True
+CLCT,Industrials,1,1,True
+CDXC,Basic Materials,1,0,False
+BBSI,Industrials,1,1,True
+FOR,Real Estate,1,1,True
+VLRS,Industrials,1,1,True
+ASMB,Healthcare,0,0,True
+CIR,Industrials,1,0,False
+IPHS,Basic Materials,1,1,True
+FARO,Technology,1,0,False
+THR,Industrials,1,1,True
+LLEX,Energy,0,1,False
+RNR,Financial Services,1,1,True
+PICO,Real Estate,1,1,True
+CHE,Healthcare,1,1,True
+JRVR,Financial Services,1,1,True
+NBTB,Financial Services,1,1,True
+CMTL,Technology,1,1,True
+CRSP,Healthcare,1,0,False
+DHX,Industrials,1,1,True
+IVAC,Technology,1,0,False
+KFRC,Industrials,1,1,True
+CDTX,Healthcare,1,0,False
+CNOB,Financial Services,1,1,True
+GLAD,Financial Services,1,0,False
+UFCS,Financial Services,0,1,False
+CCMP,Technology,1,1,True
+TRS,Industrials,1,1,True
+NSP,Industrials,0,1,False
+BBN,Financial Services,1,0,False
+MEIP,Healthcare,0,1,False
+CLNE,Energy,1,0,False
+OMEX,Industrials,0,0,True
+CBU,Financial Services,1,1,True
+XENT,Healthcare,0,0,True
+TCON,Healthcare,0,0,True
+NX,Basic Materials,1,1,True
+STRA,Consumer Defensive,1,0,False
+JAKK,Consumer Cyclical,0,0,True
+NERV,Healthcare,1,0,False
+RECN,Industrials,1,1,True
+EARN,Real Estate,1,1,True
+ATNX,Healthcare,1,0,False
+NYMX,Healthcare,1,0,False
+ALNA,Healthcare,0,0,True
+AVX,Technology,1,0,False
+MYO,Healthcare,0,0,True
+FCSC,Healthcare,1,0,False
+PDFS,Technology,1,1,True
+MVIS,Technology,1,0,False
+TBK,Financial Services,1,1,True
+PFSI,Financial Services,1,1,True
+DSE,Financial Services,1,1,True
+AQN,Utilities,1,1,True
+FIBK,Financial Services,1,1,True
+EDD,Financial Services,1,1,True
+FEI,Financial Services,1,1,True
+GPX,Consumer Defensive,1,1,True
+MARK,Technology,0,1,False
+OPTN,Healthcare,1,0,False
+VOC,Energy,1,1,True
+SRV,Financial Services,1,1,True
+CRCM,Technology,0,1,False
+BLCM,Healthcare,0,0,True
+FFIN,Financial Services,1,1,True
+RGNX,Healthcare,0,1,False
+APPF,Technology,1,1,True
+KE,Technology,1,1,True
+ASR,Industrials,1,1,True
+MBRX,Healthcare,0,0,True
+AFMD,Healthcare,0,1,False
+ASYS,Technology,1,0,False
+APEI,Consumer Defensive,0,1,False
+PSB,Real Estate,1,1,True
+GORO,Basic Materials,1,1,True
+MN,Financial Services,0,0,True
+AFI,Basic Materials,0,1,False
+VICR,Technology,1,1,True
+MORN,Industrials,1,1,True
+EIGR,Healthcare,1,0,False
+ATRC,Healthcare,1,1,True
+ICD,Energy,0,0,True
+CW,Technology,1,1,True
+APLS,Healthcare,1,0,False
+ALE,Utilities,1,1,True
+Y,Financial Services,1,0,False
+HZN,Industrials,1,0,False
+UEIC,Technology,1,0,False
+AFH,Financial Services,0,0,True
+AUTO,Technology,0,0,True
+CKPT,Healthcare,0,0,True
+HTBI,Financial Services,1,1,True
+IDN,Technology,1,0,False
+KOF,Consumer Defensive,1,1,True
+LYTS,Technology,1,1,True
+PHI,Communication Services,0,0,True
+ORA,Utilities,1,1,True
+CMPR,Consumer Cyclical,1,1,True
+ESTE,Energy,1,1,True
+VKQ,Financial Services,1,1,True
+SRDX,Healthcare,0,1,False
+OCUL,Healthcare,0,0,True
+WSBC,Financial Services,1,1,True
+PFBC,Financial Services,1,0,False
+CARG,Technology,1,1,True
+EMAN,Technology,0,0,True
+EPZM,Healthcare,1,0,False
+WMC,Real Estate,1,1,True
+LX,Financial Services,1,0,False
+AIMC,Industrials,1,1,True
+MFNC,Financial Services,1,1,True
+ADRO,Healthcare,0,0,True
+LEJU,Real Estate,1,0,False
+HMTV,Communication Services,1,1,True
+PAC,Industrials,1,1,True
+CTEK,Industrials,0,1,False
+ABIL,Technology,0,0,True
+PLX,Healthcare,0,0,True
+NVEE,Industrials,0,1,False
+ATRO,Industrials,0,0,True
+CFRX,Healthcare,0,0,True
+AZZ,Industrials,1,1,True
+DX,Real Estate,1,1,True
+IO,Energy,1,0,False
+BLX,Financial Services,1,0,False
+ENSG,Healthcare,1,1,True
+TOCA,Healthcare,0,0,True
+CYBE,Technology,1,1,True
+EFC,Financial Services,1,0,False
+AMTX,Basic Materials,1,0,False
+ICL,Basic Materials,0,1,False
+NHF,Financial Services,0,1,False
+RWLK,Healthcare,0,0,True
+INB,Financial Services,1,1,True
+NBEV,Consumer Defensive,0,0,True
+ECOL,Industrials,0,1,False
+SMHI,Industrials,1,0,False
+SHEN,Communication Services,0,1,False
+AVH,Industrials,1,0,False
+TOO,Industrials,1,0,False
+ITI,Technology,1,0,False
+GV,Industrials,1,1,True
+HNI,Industrials,1,1,True
+LPTX,Healthcare,0,0,True
+NEU,Basic Materials,1,1,True
+FSS,Industrials,1,1,True
+HCI,Financial Services,0,1,False
+IFMK,Consumer Defensive,0,0,True
+NXRT,Real Estate,1,1,True
+QQQX,Financial Services,1,1,True
+FRPH,Real Estate,1,0,False
+HOS,Energy,0,0,True
+JASN,Industrials,0,1,False
+MRIN,Technology,0,0,True
+NLST,Technology,0,0,True
+NVG,Financial Services,1,1,True
+PHT,Financial Services,1,0,False
+PRTS,Consumer Cyclical,1,1,True
+RLH,Consumer Cyclical,0,1,False
+VBTX,Financial Services,1,1,True
+FRO,Industrials,1,0,False
+HY,Industrials,0,0,True
+BCPC,Basic Materials,1,1,True
+CLH,Industrials,1,1,True
+USNA,Consumer Defensive,0,1,False
+OTTR,Utilities,1,0,False
+CTO,Real Estate,1,1,True
+VBIV,Basic Materials,0,0,True
+TBPH,Healthcare,0,1,False
+WPP,Consumer Cyclical,1,0,False
+PAHC,Healthcare,0,1,False
+QUIK,Technology,0,0,True
+ALDX,Healthcare,0,0,True
+CKH,Energy,1,0,False
+OBE,Energy,0,0,True
+ONTX,Healthcare,0,0,True
+RST,Technology,1,1,True
+TREC,Basic Materials,0,1,False
+WWR,Basic Materials,0,0,True
+MATX,Industrials,1,1,True
+HCKT,Industrials,1,1,True
+BOMN,Industrials,0,0,True
+WSBF,Financial Services,1,1,True
+PKE,Technology,1,0,False
+FFG,Financial Services,0,1,False
+MAXR,Technology,1,1,True
+JAGX,Healthcare,0,0,True
+CSII,Healthcare,1,0,False
+OXM,Consumer Cyclical,1,1,True
+PFLT,Financial Services,1,1,True
+CMT,Consumer Cyclical,0,0,True
+ALGT,Industrials,1,1,True
+MFIN,Financial Services,1,0,False
+PKD,Energy,1,0,False
+FNHC,Financial Services,0,1,False
+FSV,Real Estate,1,1,True
+NAUH,Consumer Defensive,0,0,True
+RDI,Consumer Cyclical,0,1,False
+RTIX,Healthcare,0,1,False
+SCON,Technology,0,0,True
+SMLP,Energy,0,1,False
+HTBK,Financial Services,1,1,True
+CLXT,Consumer Defensive,0,0,True
+KNSL,Financial Services,1,1,True
+METC,Basic Materials,0,1,False
+NEOG,Healthcare,1,1,True
+GTY,Real Estate,1,1,True
+WTS,Industrials,1,1,True
+HMST,Financial Services,1,1,True
+FFIC,Financial Services,1,1,True
+CPL,Utilities,1,1,True
+GNMX,Healthcare,0,0,True
+ECOM,Technology,0,1,False
+CEO,Energy,1,1,True
+GALT,Healthcare,0,0,True
+BBW,Consumer Cyclical,0,0,True
+IMKTA,Consumer Defensive,1,1,True
+NRK,Financial Services,1,1,True
+RAIL,Industrials,0,0,True
+INPX,Technology,0,0,True
+INDB,Financial Services,1,1,True
+AUPH,Healthcare,1,0,False
+LN,Technology,1,0,False
+NK,Healthcare,1,0,False
+CECO,Consumer Defensive,1,0,False
+TR,Consumer Defensive,1,1,True
+CABO,Communication Services,1,1,True
+LCUT,Consumer Cyclical,0,1,False
+ERIE,Financial Services,1,0,False
+BCX,Financial Services,1,1,True
+GPM,Financial Services,1,1,True
+HSTM,Technology,1,1,True
+AGM,Financial Services,1,1,True
+DFFN,Healthcare,0,0,True
+VIVE,Healthcare,0,0,True
+KEG,Energy,0,0,True
+UMH,Real Estate,1,1,True
+FIX,Industrials,1,1,True
+FDUS,Financial Services,1,1,True
+ANAT,Financial Services,0,1,False
+CIVB,Financial Services,1,1,True
+RKDA,Basic Materials,1,0,False
+OFIX,Healthcare,0,1,False
+KVHI,Technology,1,0,False
+TTGT,Technology,1,1,True
+HQH,Financial Services,1,0,False
+ARCB,Industrials,0,1,False
+WABC,Financial Services,1,1,True
+ACRX,Industrials,0,0,True
+CAI,Industrials,1,1,True
+CNBKA,Financial Services,1,1,True
+GLMD,Healthcare,0,0,True
+GLOP,Energy,0,1,False
+LODE,Basic Materials,0,0,True
+MDWD,Healthcare,0,0,True
+MG,Industrials,0,1,False
+NOVN,Healthcare,1,0,False
+TANH,Basic Materials,1,0,False
+UNT,Energy,0,0,True
+VHC,Technology,1,0,False
+ZFGN,Healthcare,0,0,True
+ZSAN,Healthcare,0,0,True
+VHI,Basic Materials,0,1,False
+PUK,Financial Services,1,1,True
+CCXI,Healthcare,1,1,True
+UBFO,Financial Services,1,1,True
+CNXN,Technology,1,1,True
+JAX,Consumer Cyclical,1,1,True
+SONA,Financial Services,1,1,True
+ARA,Healthcare,0,1,False
+DLB,Consumer Cyclical,1,1,True
+HAYN,Industrials,1,0,False
+TCX,Technology,1,1,True
+TPB,Consumer Defensive,1,1,True
+KIN,Healthcare,0,0,True
+MACK,Healthcare,1,0,False
+ACST,Healthcare,1,0,False
+THQ,Financial Services,1,1,True
+FFWM,Financial Services,1,1,True
+BIP,Utilities,1,1,True
+CAC,Financial Services,1,1,True
+NATH,Consumer Cyclical,1,1,True
+ANDE,Consumer Defensive,0,0,True
+YUMA,Energy,1,0,False
+CARO,Financial Services,1,1,True
+MCS,Consumer Cyclical,0,1,False
+GOOD,Real Estate,1,0,False
+CIA,Financial Services,0,1,False
+CLW,Basic Materials,0,0,True
+AMRK,Financial Services,0,1,False
+ATHX,Healthcare,0,0,True
+CCD,Financial Services,1,1,True
+CEM,Financial Services,1,1,True
+DGII,Technology,1,0,False
+ESES,Energy,0,1,False
+GMRE,Real Estate,1,1,True
+KRYS,Healthcare,1,0,False
+NTIP,Technology,1,1,True
+ORN,Industrials,1,0,False
+PLXP,Healthcare,1,1,True
+SLGL,Healthcare,1,0,False
+SPEX,Industrials,0,0,True
+VLGEA,Consumer Defensive,0,1,False
+YTRA,Consumer Cyclical,0,0,True
+MKL,Financial Services,1,1,True
+EOI,Financial Services,1,1,True
+WRLD,Financial Services,0,1,False
+FICO,Technology,1,0,False
+GRC,Industrials,1,1,True
+OLP,Real Estate,1,1,True
+PZN,Financial Services,1,1,True
+SYBT,Financial Services,1,1,True
+FTF,Financial Services,1,1,True
+HWKN,Basic Materials,1,1,True
+SJW,Utilities,1,1,True
+GFF,Basic Materials,1,1,True
+CHY,Financial Services,1,1,True
+TORC,Healthcare,0,0,True
+CEVA,Technology,1,1,True
+FLY,Industrials,1,0,False
+AGX,Industrials,1,1,True
+XOMA,Healthcare,1,0,False
+SMP,Consumer Cyclical,1,1,True
+NVIV,Healthcare,0,0,True
+DCAR,Technology,0,0,True
+GNK,Industrials,1,1,True
+HCCI,Industrials,1,1,True
+HQL,Financial Services,1,1,True
+ILPT,Real Estate,1,1,True
+KIDS,Healthcare,1,0,False
+PFN,Financial Services,1,1,True
+PULM,Healthcare,0,0,True
+SCYX,Healthcare,1,0,False
+SECO,Consumer Cyclical,0,0,True
+XPL,Basic Materials,1,0,False
+EIG,Financial Services,1,1,True
+BST,Financial Services,1,1,True
+CHCO,Financial Services,1,1,True
+NXTD,Industrials,0,1,False
+IBCP,Financial Services,1,1,True
+DNP,Financial Services,1,1,True
+INSW,Industrials,1,1,True
+DCIX,Industrials,1,1,True
+CHT,Communication Services,1,0,False
+EAD,Financial Services,1,1,True
+MBWM,Financial Services,1,1,True
+RCKY,Consumer Cyclical,1,1,True
+KAMN,Industrials,1,1,True
+USM,Communication Services,0,0,True
+POWI,Technology,1,1,True
+TDW,Energy,0,0,True
+HIL,Industrials,1,0,False
+OOMA,Communication Services,0,0,True
+NTRA,Healthcare,1,0,False
+PGC,Financial Services,1,1,True
+UVE,Financial Services,0,1,False
+ATAX,Financial Services,1,1,True
+BTZ,Financial Services,1,1,True
+DPG,Financial Services,1,1,True
+FPF,Financial Services,1,1,True
+MBOT,Healthcare,1,0,False
+MIXT,Technology,0,1,False
+MOTS,Healthcare,0,0,True
+MTL,Basic Materials,1,1,True
+NEXT,Energy,1,0,False
+NFBK,Financial Services,1,1,True
+NL,Industrials,1,0,False
+PCI,Financial Services,1,1,True
+USEG,Energy,0,0,True
+SHG,Financial Services,1,0,False
+APTO,Healthcare,1,0,False
+CORR,Utilities,1,1,True
+REV,Consumer Defensive,0,1,False
+EGY,Energy,1,0,False
+MRSN,Healthcare,1,0,False
+SYX,Consumer Cyclical,1,0,False
+GHM,Industrials,0,1,False
+GCO,Consumer Cyclical,1,1,True
+SNSS,Healthcare,0,0,True
+JBSS,Consumer Defensive,1,1,True
+CUB,Industrials,1,1,True
+RGR,Industrials,0,1,False
+LPTH,Technology,0,1,False
+MITT,Real Estate,1,1,True
+TTEC,Industrials,1,1,True
+FISI,Financial Services,1,1,True
+VCYT,Healthcare,1,0,False
+CGEN,Healthcare,1,1,True
+MOFG,Financial Services,1,1,True
+NVR,Consumer Cyclical,1,1,True
+RNST,Financial Services,1,1,True
+ULBI,Industrials,1,1,True
+FOMX,Healthcare,0,0,True
+ESE,Technology,1,1,True
+FBMS,Financial Services,1,1,True
+ACIU,Healthcare,0,0,True
+KELYA,Industrials,1,1,True
+TMP,Financial Services,1,1,True
+MGEN,Healthcare,0,0,True
+SQBG,Consumer Cyclical,0,1,False
+ACRE,Real Estate,1,1,True
+IMOS,Technology,1,0,False
+SPOK,Communication Services,0,1,False
+ABTX,Financial Services,1,1,True
+CAMT,Technology,1,1,True
+HMLP,Industrials,1,1,True
+MCBC,Financial Services,1,1,True
+NRP,Basic Materials,0,0,True
+PLUS,Technology,1,1,True
+SELB,Healthcare,0,0,True
+THFF,Financial Services,1,1,True
+YIN,Financial Services,0,1,False
+GDP,Energy,0,1,False
+RFIL,Technology,0,1,False
+NCSM,Energy,0,1,False
+PRFT,Technology,1,1,True
+PFS,Financial Services,1,1,True
+CSWI,Industrials,1,1,True
+TPHS,Real Estate,0,0,True
+BLBD,Consumer Cyclical,1,1,True
+NCNA,Healthcare,0,0,True
+KMPH,Healthcare,0,0,True
+ZLAB,Healthcare,1,0,False
+AMSC,Technology,0,0,True
+RCKT,Healthcare,1,0,False
+TGB,Basic Materials,0,1,False
+YRD,Financial Services,0,0,True
+GAIN,Financial Services,1,0,False
+LRN,Consumer Defensive,0,1,False
+RAVN,Industrials,0,1,False
+MBIO,Healthcare,1,0,False
+ARDC,Financial Services,1,0,False
+CLSN,Healthcare,1,0,False
+HLG,Consumer Defensive,1,0,False
+IFRX,Healthcare,0,0,True
+JGH,Financial Services,1,0,False
+KNOP,Industrials,1,1,True
+MMAC,Financial Services,1,1,True
+OCX,Healthcare,1,0,False
+RENN,Technology,0,1,False
+SMRT,Consumer Cyclical,0,0,True
+VRTV,Industrials,0,0,True
+WKHS,Consumer Cyclical,1,0,False
+CLLS,Healthcare,0,0,True
+JJSF,Consumer Defensive,1,1,True
+NTEC,Healthcare,0,0,True
+TTEK,Industrials,1,1,True
+CTBI,Financial Services,1,1,True
+CCF,Industrials,1,1,True
+IHG,Consumer Cyclical,1,0,False
+BATRA,Consumer Cyclical,1,1,True
+INTL,Financial Services,1,0,False
+FBIO,Healthcare,1,0,False
+BSRR,Financial Services,1,1,True
+EDUC,Consumer Cyclical,0,1,False
+FDEF,Financial Services,1,1,True
+NVMI,Technology,1,1,True
+ESXB,Financial Services,1,1,True
+FLXS,Consumer Cyclical,0,1,False
+VALU,Consumer Cyclical,1,1,True
+RIBT,Consumer Defensive,0,0,True
+MYE,Consumer Cyclical,1,1,True
+GLPG,Healthcare,1,0,False
+RLGT,Industrials,1,1,True
+FC,Consumer Defensive,1,1,True
+NC,Consumer Cyclical,1,0,False
+APT,Basic Materials,0,1,False
+EVI,Consumer Cyclical,0,1,False
+AGRX,Healthcare,1,0,False
+AGTC,Healthcare,1,0,False
+ALLT,Technology,1,1,True
+BANX,Financial Services,1,1,True
+CBIO,Healthcare,0,0,True
+CEA,Industrials,0,1,False
+CNET,Consumer Cyclical,0,0,True
+DCPH,Healthcare,1,0,False
+HBB,Technology,0,1,False
+HBP,Industrials,0,0,True
+HOFT,Consumer Cyclical,0,1,False
+ICLK,Consumer Cyclical,1,0,False
+ISTR,Financial Services,0,1,False
+KBAL,Technology,1,0,False
+LNDC,Consumer Defensive,0,1,False
+NTRSP,Financial Services,1,0,False
+NWPX,Basic Materials,1,0,False
+PRCP,Technology,0,0,True
+RM,Financial Services,1,1,True
+SYRS,Healthcare,1,0,False
+UTL,Utilities,1,0,False
+WNEB,Financial Services,0,1,False
+ZEUS,Industrials,1,0,False
+SCL,Basic Materials,1,1,True
+SALM,Consumer Cyclical,0,1,False
+NEWT,Financial Services,1,0,False
+NH,Technology,1,0,False
+HBMD,Financial Services,1,1,True
+SPNE,Healthcare,0,0,True
+FORR,Industrials,0,1,False
+NTP,Technology,0,0,True
+STRL,Industrials,1,1,True
+MFSF,Financial Services,1,1,True
+MRUS,Healthcare,0,0,True
+RILY,Financial Services,1,0,False
+TAX,Consumer Cyclical,1,1,True
+STCN,Industrials,0,0,True
+GRAM,Industrials,0,0,True
+MMLP,Energy,0,0,True
+HBNC,Financial Services,1,1,True
+CUE,Healthcare,1,0,False
+INFU,Healthcare,1,1,True
+MGNX,Healthcare,0,0,True
+AMEH,Healthcare,0,1,False
+STN,Industrials,1,1,True
+AXSM,Healthcare,1,0,False
+GHC,Consumer Cyclical,0,1,False
+CIK,Financial Services,1,1,True
+DCOM,Financial Services,1,1,True
+AMOT,Technology,1,1,True
+BKEP,Energy,0,1,False
+BRT,Real Estate,1,0,False
+BWFG,Financial Services,1,1,True
+CSV,Consumer Cyclical,1,1,True
+CVU,Industrials,0,0,True
+DSM,Financial Services,1,1,True
+EBF,Industrials,1,1,True
+FMBH,Financial Services,1,1,True
+GEOS,Energy,1,0,False
+HNP,Utilities,0,0,True
+HTBX,Healthcare,0,1,False
+INBK,Financial Services,1,1,True
+KALV,Healthcare,0,0,True
+LIND,Consumer Cyclical,1,0,False
+MCRB,Healthcare,0,0,True
+NTWK,Technology,0,1,False
+PANL,Industrials,1,0,False
+RCS,Financial Services,1,1,True
+REPH,Healthcare,1,0,False
+SVVC,Financial Services,0,0,True
+TYHT,Healthcare,1,1,True
+MRAM,Technology,0,0,True
+KALA,Healthcare,0,0,True
+WDFC,Basic Materials,1,1,True
+BCBP,Financial Services,1,1,True
+TNAV,Technology,1,0,False
+GARS,Financial Services,0,1,False
+NP,Basic Materials,1,1,True
+PSTI,Healthcare,0,0,True
+BHB,Financial Services,1,1,True
+FVE,Healthcare,0,0,True
+WTM,Financial Services,1,0,False
+LILA,Communication Services,1,1,True
+IBIO,Healthcare,0,0,True
+IEP,Industrials,1,0,False
+LMNR,Consumer Defensive,0,1,False
+VNRX,Healthcare,1,0,False
+AGLE,Healthcare,0,0,True
+RYTM,Healthcare,0,0,True
+CELH,Consumer Defensive,1,0,False
+WEYS,Consumer Cyclical,0,1,False
+SBOW,Energy,0,1,False
+CHMI,Real Estate,0,1,False
+CERC,Healthcare,1,1,True
+DMF,Financial Services,1,1,True
+ALOT,Technology,0,1,False
+CBMG,Healthcare,0,0,True
+RBB,Financial Services,1,1,True
+STKS,Consumer Cyclical,1,1,True
+VOXX,Consumer Cyclical,1,0,False
+ESGR,Financial Services,1,1,True
+RIOT,Financial Services,0,0,True
+SORL,Consumer Cyclical,1,1,True
+ASND,Healthcare,1,0,False
+BSM,Energy,0,1,False
+BTAI,Healthcare,1,0,False
+CRMT,Consumer Cyclical,1,1,True
+CVCY,Financial Services,1,1,True
+CWCO,Utilities,1,1,True
+EHTH,Financial Services,1,0,False
+ESNC,Industrials,0,1,False
+GROW,Financial Services,1,0,False
+JCAP,Real Estate,1,0,False
+KINS,Financial Services,0,1,False
+MPX,Industrials,0,1,False
+MRLN,Financial Services,0,1,False
+MVC,Financial Services,1,1,True
+NAC,Financial Services,1,1,True
+NETE,Technology,0,1,False
+ORAN,Communication Services,0,0,True
+PCYG,Technology,0,1,False
+QIWI,Financial Services,1,0,False
+UFAB,Consumer Cyclical,0,1,False
+USAK,Industrials,0,0,True
+UTSI,Communication Services,1,0,False
+VERI,Technology,0,0,True
+WHG,Financial Services,0,1,False
+FENC,Healthcare,0,0,True
+FARM,Consumer Defensive,0,0,True
+ANIK,Healthcare,1,1,True
+SVRA,Healthcare,0,0,True
+TG,Industrials,1,1,True
+BUSE,Financial Services,1,1,True
+HONE,Financial Services,1,1,True
+UHT,Real Estate,1,1,True
+IESC,Industrials,1,1,True
+LITB,Consumer Cyclical,1,0,False
+RNET,Technology,0,1,False
+SMBC,Financial Services,1,1,True
+VCTR,Financial Services,1,1,True
+ZTR,Financial Services,1,1,True
+LMFA,Financial Services,0,0,True
+KAI,Industrials,1,1,True
+PRQR,Healthcare,0,1,False
+UBA,Real Estate,1,1,True
+BREW,Consumer Defensive,1,1,True
+FCBC,Financial Services,0,1,False
+MHO,Consumer Cyclical,1,1,True
+UTMD,Healthcare,1,1,True
+PCOM,Technology,1,1,True
+ATNI,Communication Services,0,1,False
+SCM,Financial Services,1,1,True
+AIRG,Technology,1,1,True
+BOSC,Industrials,0,0,True
+CATB,Healthcare,1,0,False
+CDLX,Technology,1,0,False
+CNTY,Consumer Cyclical,1,1,True
+DAIO,Technology,0,1,False
+EFF,Financial Services,1,1,True
+EOLS,Healthcare,0,0,True
+ETB,Financial Services,1,1,True
+GECC,Financial Services,1,0,False
+HEAR,Technology,0,1,False
+HYI,Financial Services,1,1,True
+IOR,Real Estate,1,1,True
+IVH,Financial Services,1,0,False
+KREF,Financial Services,1,1,True
+MCN,Financial Services,1,1,True
+MRCC,Financial Services,1,0,False
+MTNB,Healthcare,1,0,False
+MTSC,Technology,1,1,True
+NEV,Financial Services,1,1,True
+NPK,Industrials,0,1,False
+PGH,Energy,1,1,True
+POWL,Industrials,1,0,False
+PWOD,Financial Services,0,1,False
+RSLS,Healthcare,0,0,True
+SEED,Consumer Defensive,1,0,False
+STON,Consumer Cyclical,0,0,True
+TAT,Energy,0,0,True
+TGLS,Basic Materials,1,0,False
+TITN,Industrials,1,1,True
+TLYS,Consumer Cyclical,1,1,True
+WRLSU,Industrials,1,1,True
+ZYNE,Healthcare,1,0,False
+CTG,Technology,1,0,False
+PCYO,Utilities,1,1,True
+SNOA,Healthcare,0,0,True
+DXYN,Consumer Cyclical,1,0,False
+CYRX,Consumer Cyclical,1,0,False
+COKE,Consumer Defensive,1,1,True
+GSL,Industrials,1,0,False
+TRC,Real Estate,0,0,True
+KNDI,Consumer Cyclical,1,1,True
+WHLR,Real Estate,1,0,False
+NSPR,Healthcare,0,0,True
+DXR,Healthcare,1,0,False
+RDHL,Healthcare,0,1,False
+PFSW,Industrials,0,1,False
+GRIF,Real Estate,1,1,True
+CLAR,Consumer Cyclical,1,1,True
+PLOW,Consumer Cyclical,1,1,True
+TWIN,Industrials,0,0,True
+SYNL,Basic Materials,0,0,True
+CCLP,Energy,1,1,True
+FNWB,Financial Services,1,0,False
+TRT,Technology,1,1,True
+TSBK,Financial Services,1,1,True
+SPHS,Healthcare,0,0,True
+NGHCN,Financial Services,1,1,True
+VPG,Technology,1,1,True
+NHC,Healthcare,1,1,True
+INFI,Healthcare,0,0,True
+VSEC,Industrials,1,1,True
+MGEE,Utilities,1,1,True
+CVCO,Consumer Cyclical,1,1,True
+CAPL,Energy,1,1,True
+SP,Industrials,1,1,True
+STBA,Financial Services,1,1,True
+MSN,Technology,0,0,True
+TBNK,Financial Services,1,1,True
+BFIN,Financial Services,0,1,False
+DKL,Energy,1,1,True
+ACGLP,Financial Services,1,1,True
+ACH,Basic Materials,1,1,True
+ALG,Industrials,1,1,True
+ANFI,Consumer Defensive,1,0,False
+ARKR,Consumer Cyclical,1,1,True
+ATOS,Healthcare,1,0,False
+AXU,Industrials,1,0,False
+BIOL,Healthcare,0,0,True
+BTT,Financial Services,1,1,True
+CBTX,Financial Services,1,1,True
+CIGI,Real Estate,1,1,True
+CREG,Industrials,0,0,True
+DNN,Basic Materials,0,0,True
+GENC,Industrials,1,0,False
+IOSP,Basic Materials,1,1,True
+IOTS,Technology,1,0,False
+JMLP,Financial Services,1,1,True
+MNOV,Healthcare,0,0,True
+NURO,Healthcare,0,0,True
+NVEC,Technology,0,1,False
+OVID,Healthcare,1,0,False
+OXFD,Healthcare,1,0,False
+PBIP,Financial Services,1,1,True
+PCTI,Technology,1,0,False
+PFNX,Healthcare,1,0,False
+PLM,Basic Materials,0,0,True
+PLSE,Healthcare,1,0,False
+PMM,Financial Services,1,1,True
+RBCAA,Financial Services,1,1,True
+RVP,Healthcare,1,0,False
+SAFE,Real Estate,1,1,True
+SAL,Financial Services,1,1,True
+SBPH,Healthcare,0,0,True
+SRAX,Consumer Cyclical,1,1,True
+SSI,Consumer Cyclical,1,1,True
+SUNS,Financial Services,1,1,True
+VET,Energy,0,1,False
+WF,Financial Services,0,1,False
+XRF,Financial Services,1,0,False
+JP,Financial Services,0,0,True
+BCH,Financial Services,0,0,True
+IX,Financial Services,1,1,True
+SNGX,Healthcare,1,0,False
+NINE,Energy,0,1,False
+CSBR,Healthcare,1,0,False
+SPNS,Technology,1,1,True
+FF,Basic Materials,0,0,True
+AVGR,Healthcare,0,0,True
+ACMR,Technology,1,0,False
+GWRS,Utilities,1,1,True
+PRK,Financial Services,1,1,True
+PFBI,Financial Services,1,1,True
+CCBG,Financial Services,1,1,True
+NYNY,Consumer Cyclical,0,0,True
+ENFC,Financial Services,1,1,True
+IMH,Financial Services,1,0,False
+BMRC,Financial Services,1,1,True
+PDI,Financial Services,1,1,True
+AC,Financial Services,1,1,True
+DHIL,Financial Services,0,1,False
+PUB,Financial Services,0,1,False
+ESSA,Financial Services,1,1,True
+FFNW,Financial Services,0,1,False
+CELC,Healthcare,0,0,True
+OPY,Financial Services,1,1,True
+BOCH,Financial Services,1,1,True
+KWR,Basic Materials,0,1,False
+SVA,Healthcare,1,0,False
+FCNCA,Financial Services,1,1,True
+XONE,Industrials,1,0,False
+WTBA,Financial Services,1,1,True
+DL,Consumer Defensive,1,1,True
+ULH,Industrials,1,1,True
+ACHV,Healthcare,0,0,True
+ALT,Healthcare,0,0,True
+ARD,Consumer Cyclical,1,1,True
+AROW,Financial Services,1,1,True
+AUMN,Basic Materials,1,0,False
+AZRE,Utilities,1,1,True
+BANF,Financial Services,1,1,True
+BDGE,Financial Services,1,1,True
+BELFB,Technology,1,1,True
+BHK,Financial Services,1,1,True
+BPT,Energy,0,1,False
+BYFC,Financial Services,1,0,False
+CEL,Communication Services,0,0,True
+CELP,Energy,1,1,True
+CHFS,Healthcare,0,1,False
+CHMG,Financial Services,1,1,True
+CMCL,Basic Materials,1,1,True
+COE,Consumer Defensive,1,1,True
+CPIX,Healthcare,0,1,False
+CPST,Technology,0,0,True
+CSTR,Financial Services,1,1,True
+DFP,Financial Services,1,1,True
+DIAX,Financial Services,1,1,True
+DRIO,Healthcare,1,0,False
+ELSE,Technology,1,0,False
+ERA,Industrials,1,1,True
+ESLT,Industrials,1,1,True
+EVOL,Technology,0,0,True
+FDEU,Financial Services,1,1,True
+FRBA,Financial Services,0,0,True
+FRSX,Real Estate,0,0,True
+GASS,Industrials,1,0,False
+GBLI,Financial Services,0,1,False
+GEC,Financial Services,0,0,True
+GLIBP,Communication Services,1,1,True
+GPP,Energy,1,1,True
+IPDN,Technology,0,0,True
+JOUT,Consumer Cyclical,1,1,True
+KEQU,Industrials,0,1,False
+LDP,Financial Services,1,0,False
+LIFE,Healthcare,0,0,True
+LORL,Technology,0,0,True
+LPCN,Healthcare,0,1,False
+LTBR,Industrials,0,0,True
+MHH,Industrials,1,0,False
+MLR,Consumer Cyclical,1,1,True
+MNP,Financial Services,1,1,True
+MYSZ,Technology,0,0,True
+NEPT,Healthcare,0,0,True
+NODK,Financial Services,1,1,True
+NTIC,Basic Materials,1,1,True
+OBLN,Healthcare,0,0,True
+OFS,Financial Services,1,0,False
+PAR,Technology,1,0,False
+PIXY,Industrials,0,0,True
+QUMU,Technology,1,0,False
+RDCM,Technology,1,0,False
+RELL,Technology,0,0,True
+SBI,Financial Services,1,1,True
+SDPI,Energy,0,1,False
+SEII,Industrials,0,0,True
+SGC,Consumer Cyclical,0,1,False
+SMBK,Financial Services,1,1,True
+SOHO,Real Estate,1,1,True
+SPRT,Technology,0,0,True
+STRS,Real Estate,1,0,False
+TGA,Energy,0,0,True
+TIPT,Financial Services,1,1,True
+TROV,Healthcare,0,0,True
+TTNP,Healthcare,0,0,True
+VTVT,Healthcare,0,0,True
+WSTL,Technology,0,1,False
+LMRK,Real Estate,1,1,True
+PBBI,Financial Services,1,1,True
+VRTS,Financial Services,1,1,True
+MBII,Basic Materials,0,0,True
+FWP,Healthcare,1,0,False
+YORW,Utilities,1,1,True
+TGEN,Basic Materials,0,1,False
+SENEA,Consumer Defensive,1,0,False
+BMTC,Financial Services,1,1,True
+CCRC,Industrials,0,1,False
+EML,Industrials,1,1,True
+CPTA,Financial Services,1,0,False
+PFMT,Industrials,0,1,False
+EBAYL,Consumer Cyclical,1,1,True
+CRVL,Financial Services,1,1,True
+BBU,Real Estate,1,0,False
+PMBC,Financial Services,1,1,True
+ALBO,Healthcare,1,0,False
+URGN,Healthcare,0,0,True
+MSB,Financial Services,1,1,True
+BH,Consumer Cyclical,0,0,True
+JYNT,Healthcare,1,1,True
+GRBK,Real Estate,1,0,False
+FNLC,Financial Services,1,1,True
+MBCN,Financial Services,1,1,True
+NKSH,Financial Services,1,1,True
+AMNB,Financial Services,1,1,True
+CHA,Communication Services,0,0,True
+CHSCM,Consumer Defensive,1,0,False
+LAND,Real Estate,1,1,True
+CHSCN,Consumer Defensive,1,0,False
+HBANO,Financial Services,1,1,True
+CFFI,Financial Services,1,1,True
+ALX,Real Estate,1,1,True
+ATXI,Healthcare,1,1,True
+EDN,Utilities,0,1,False
+ISG,Financial Services,1,0,False
+SHBI,Financial Services,1,1,True
+CWBR,Healthcare,0,0,True
+MXC,Energy,1,1,True
+MVO,Energy,0,1,False
+GFN,Industrials,1,1,True
+IRIX,Healthcare,0,0,True
+CYAD,Healthcare,0,0,True
+XELA,Technology,0,1,False
+UFPT,Consumer Cyclical,1,1,True
+VIA,Consumer Cyclical,0,0,True
+WIRE,Technology,1,1,True
+AKER,Healthcare,0,0,True
+CLPR,Real Estate,0,1,False
+TCFC,Financial Services,1,1,True
+GBL,Financial Services,1,0,False
+ATRI,Healthcare,1,1,True
+BRID,Consumer Defensive,1,0,False
+AUBN,Financial Services,1,1,True
+DWSN,Energy,0,0,True
+OMP,Energy,1,1,True
+JOB,Industrials,0,1,False
+OVBC,Financial Services,1,1,True
+AE,Energy,0,1,False
+AHPI,Healthcare,0,0,True
+AMSF,Financial Services,1,1,True
+AP,Industrials,0,0,True
+APWC,Technology,0,0,True
+ARCT,Healthcare,1,1,True
+ASPN,Basic Materials,1,0,False
+AWRE,Technology,0,0,True
+AZRX,Healthcare,0,0,True
+BCRH,Financial Services,1,0,False
+BCTF,Financial Services,1,1,True
+BDR,Technology,0,0,True
+BDXA,Healthcare,1,1,True
+BLPH,Healthcare,0,0,True
+BNSO,Technology,1,0,False
+BSET,Consumer Cyclical,0,1,False
+BSTC,Healthcare,0,1,False
+BWEN,Industrials,1,0,False
+CART,Financial Services,1,1,True
+CASS,Industrials,1,1,True
+CHEK,Healthcare,0,0,True
+CHSCL,Consumer Defensive,1,0,False
+CIDM,Consumer Cyclical,1,0,False
+CLWT,Industrials,0,0,True
+CPAC,Basic Materials,1,1,True
+CTS,Technology,1,1,True
+CULP,Consumer Cyclical,0,1,False
+CVV,Industrials,0,0,True
+CYCC,Healthcare,0,0,True
+CZWI,Financial Services,1,1,True
+DLA,Consumer Cyclical,1,0,False
+DRAD,Healthcare,0,1,False
+EBTC,Financial Services,1,1,True
+EDAP,Healthcare,1,0,False
+EKSO,Healthcare,0,0,True
+ENJ,Utilities,1,1,True
+ESP,Technology,0,0,True
+EVY,Financial Services,1,1,True
+EYES,Healthcare,0,0,True
+FBSS,Financial Services,1,1,True
+FCCY,Financial Services,1,1,True
+FLL,Consumer Cyclical,1,1,True
+FMAO,Financial Services,0,1,False
+FMNB,Financial Services,1,1,True
+FRA,Financial Services,1,1,True
+FSTR,Industrials,1,0,False
+FTEK,Industrials,0,0,True
+GNE,Energy,1,1,True
+GSBD,Financial Services,1,0,False
+GURE,Basic Materials,0,0,True
+HALL,Financial Services,1,0,False
+HESM,Energy,1,1,True
+HNW,Financial Services,1,0,False
+IBKCP,Financial Services,1,1,True
+IIN,Technology,0,0,True
+IRMD,Healthcare,0,1,False
+ISNS,Technology,0,0,True
+JRJC,Financial Services,1,0,False
+KEN,Utilities,1,1,True
+KTOV,Healthcare,1,0,False
+LAC,Basic Materials,0,0,True
+LCM,Financial Services,0,1,False
+LFVN,Consumer Defensive,1,1,True
+LMB,Industrials,0,1,False
+LOV,Technology,0,1,False
+LYL,Financial Services,0,0,True
+MAGS,Industrials,0,1,False
+MCB,Financial Services,1,1,True
+MGIC,Technology,1,1,True
+MLVF,Financial Services,1,1,True
+MOSY,Technology,0,0,True
+MZA,Financial Services,1,1,True
+NAII,Consumer Defensive,0,1,False
+NID,Financial Services,1,1,True
+NTN,Consumer Cyclical,1,1,True
+NVFY,Consumer Cyclical,0,0,True
+NVUS,Healthcare,0,0,True
+OGEN,Healthcare,0,0,True
+OIIM,Technology,1,0,False
+OPNT,Healthcare,0,0,True
+OSN,Basic Materials,1,1,True
+PBCTP,Financial Services,1,1,True
+PERI,Technology,1,0,False
+PFIE,Energy,0,1,False
+PHX,Energy,0,1,False
+PKOH,Industrials,1,1,True
+POLA,Technology,0,0,True
+PPIH,Industrials,1,0,False
+PPSI,Technology,0,1,False
+RAVE,Consumer Cyclical,1,0,False
+RETO,Basic Materials,0,0,True
+RGLS,Healthcare,0,0,True
+ROSE,Energy,0,0,True
+RVSB,Financial Services,1,1,True
+SACH,Real Estate,1,1,True
+SANW,Consumer Defensive,1,0,False
+SGBX,Industrials,0,0,True
+SGOC,Technology,1,0,False
+SKYS,Utilities,1,1,True
+SLS,Healthcare,0,1,False
+SMIT,Technology,1,0,False
+SMMF,Financial Services,1,1,True
+SPLP,Industrials,0,1,False
+SRLP,Energy,1,1,True
+STAF,Industrials,0,1,False
+STRM,Technology,1,1,True
+STRT,Consumer Cyclical,0,0,True
+SYN,Healthcare,0,0,True
+TDE,Communication Services,1,1,True
+TENX,Healthcare,1,0,False
+TESS,Technology,0,0,True
+THW,Financial Services,1,1,True
+TLF,Consumer Cyclical,0,1,False
+TNXP,Healthcare,0,0,True
+TPL,Real Estate,1,1,True
+TRIB,Healthcare,0,0,True
+TSLF,Financial Services,1,1,True
+TWMC,Consumer Cyclical,0,0,True
+UFI,Consumer Cyclical,1,0,False
+USAU,Basic Materials,0,0,True
+UUU,Industrials,0,0,True
+VJET,Technology,1,0,False
+VVPR,Technology,1,0,False
+WHF,Financial Services,1,1,True
+WHLRP,Real Estate,1,1,True
+WYY,Technology,0,1,False
+XENE,Healthcare,1,0,False
+XTNT,Healthcare,0,0,True
+YGYI,Consumer Defensive,0,0,True
+YOGA,Consumer Cyclical,0,1,False
+ZDGE,Technology,0,1,False
+ZNH,Industrials,1,1,True
+MTLS,Technology,0,1,False
+CSSE,Consumer Cyclical,1,1,True
+MSEX,Utilities,1,1,True
+NGHCO,Financial Services,1,1,True
+PED,Energy,1,0,False
+PRTO,Healthcare,0,0,True
+SEB,Industrials,1,1,True
+SFST,Financial Services,1,1,True
+SHI,Energy,0,1,False
+LCNB,Financial Services,1,1,True
+PZG,Basic Materials,0,0,True
+VRML,Healthcare,1,0,False
+UG,Consumer Defensive,1,1,True
+NES,Industrials,0,1,False
+SBBX,Financial Services,1,1,True
+WLFC,Industrials,1,1,True
+ACER,Healthcare,0,0,True
+EVBN,Financial Services,1,1,True
+GCBC,Financial Services,0,1,False
+PLPC,Technology,1,1,True
+FBIZ,Financial Services,1,1,True
+CLIR,Industrials,0,0,True
+AMSWA,Technology,1,1,True
+RZA,Financial Services,1,0,False
+VLRX,Healthcare,0,0,True
+MKGI,Consumer Cyclical,1,1,True
+MIND,Technology,0,1,False
+IRCP,Real Estate,0,1,False
+RUSHB,Consumer Cyclical,1,1,True
+CMCT,Real Estate,0,1,False
+NCBS,Financial Services,1,1,True
+LWAY,Consumer Defensive,1,0,False
+FCCO,Financial Services,1,1,True
+SLCT,Financial Services,0,1,False
+WTFCM,Financial Services,1,1,True
+OFED,Financial Services,1,1,True
+SINO,Industrials,0,0,True
+BCOM,Communication Services,0,0,True
+NWLI,Financial Services,0,1,False
+NYMTP,Real Estate,1,1,True
+SWP,Industrials,1,1,True
+CATC,Financial Services,0,1,False
+SAFT,Financial Services,1,1,True
+SGRP,Industrials,1,1,True
+TPVG,Financial Services,1,0,False
+DNBF,Financial Services,1,1,True
+ICAD,Technology,1,0,False
+MICT,Industrials,1,1,True
+NRIM,Financial Services,1,1,True
+EBMT,Financial Services,1,1,True
+ICBK,Financial Services,1,1,True
+BFS,Real Estate,1,1,True
+FGBI,Financial Services,1,1,True
+GRVY,Technology,0,1,False
+HIFS,Financial Services,1,1,True
+HX,Financial Services,0,1,False
+ITIC,Financial Services,0,1,False
+MLAB,Technology,1,1,True
+PEBK,Financial Services,1,1,True
+PVBC,Financial Services,1,1,True
+SBFG,Financial Services,1,1,True
+SGMA,Technology,1,0,False
+SMMT,Healthcare,1,0,False
+TAC,Utilities,1,0,False
+TCI,Real Estate,1,0,False
+AAMC,Financial Services,0,0,True
+AAME,Financial Services,0,1,False
+AAU,Basic Materials,0,0,True
+ACGLO,Financial Services,1,1,True
+ACNB,Financial Services,1,1,True
+ACU,Consumer Defensive,1,1,True
+ACY,Industrials,0,1,False
+ADOM,Consumer Cyclical,0,0,True
+AEB,Financial Services,1,1,True
+AEY,Technology,1,1,True
+AEZS,Healthcare,0,0,True
+AFC,Financial Services,1,1,True
+AGNCB,Real Estate,1,0,False
+AGNCN,Real Estate,1,0,False
+AHC,Consumer Cyclical,0,0,True
+AIHS,Financial Services,0,0,True
+AINC,Financial Services,0,1,False
+AIRI,Industrials,1,0,False
+AIRT,Industrials,1,0,False
+AIZP,Financial Services,1,1,True
+AJX,Real Estate,1,1,True
+AKTX,Healthcare,1,0,False
+ALCO,Consumer Defensive,1,1,True
+ALJJ,Basic Materials,0,1,False
+ALPN,Healthcare,0,1,False
+ALRN,Healthcare,0,0,True
+AMOV,Communication Services,1,1,True
+AMRB,Financial Services,1,1,True
+AMRH,Technology,0,1,False
+AMS,Healthcare,0,0,True
+APDN,Industrials,0,1,False
+APEN,Healthcare,0,0,True
+APOP,Healthcare,0,0,True
+AQB,Healthcare,0,0,True
+ARCW,Industrials,0,0,True
+ARL,Real Estate,1,0,False
+ARTNA,Utilities,1,1,True
+ARTW,Industrials,0,0,True
+ASFI,Financial Services,1,1,True
+ASM,Basic Materials,0,0,True
+ASPU,Consumer Defensive,1,0,False
+ASRV,Financial Services,1,1,True
+ASTC,Industrials,0,0,True
+ATEC,Healthcare,1,0,False
+ATLC,Financial Services,1,1,True
+ATLO,Financial Services,1,1,True
+ATV,Consumer Cyclical,0,0,True
+AUDC,Technology,1,1,True
+AUG,Basic Materials,1,0,False
+AVNW,Technology,0,0,True
+AWX,Industrials,0,1,False
+AXR,Industrials,1,0,False
+BASI,Healthcare,1,1,True
+BBDO,Financial Services,0,1,False
+BCLI,Healthcare,1,0,False
+BCV,Financial Services,1,1,True
+BDL,Consumer Cyclical,0,1,False
+BELFA,Technology,0,1,False
+BEP,Utilities,1,1,True
+BFRA,Healthcare,0,0,True
+BHV,Financial Services,1,0,False
+BJZ,Financial Services,1,1,True
+BKEPP,Energy,1,1,True
+BKJ,Financial Services,1,0,False
+BKSC,Financial Services,1,1,True
+BKYI,Industrials,0,0,True
+BLFS,Healthcare,1,1,True
+BLIN,Technology,0,0,True
+BLNK,Industrials,1,0,False
+BMRA,Healthcare,1,0,False
+BNTC,Healthcare,0,0,True
+BOTJ,Financial Services,1,1,True
+BOXL,Technology,0,0,True
+BPMX,Healthcare,0,0,True
+BPTH,Healthcare,1,0,False
+BRN,Energy,0,0,True
+BRPA,Industrials,1,0,False
+BSQR,Technology,0,0,True
+BTN,Consumer Cyclical,1,0,False
+BURG,Consumer Cyclical,0,1,False
+BVSN,Technology,1,0,False
+BVXV,Healthcare,1,0,False
+BYSI,Healthcare,0,0,True
+CAAS,Consumer Cyclical,1,0,False
+CANF,Healthcare,0,1,False
+CAPR,Healthcare,0,0,True
+CARV,Financial Services,0,1,False
+CATS,Healthcare,1,0,False
+CBAN,Financial Services,1,1,True
+CBFV,Financial Services,1,1,True
+CBLI,Healthcare,0,0,True
+CBSHP,Financial Services,1,1,True
+CCCL,Basic Materials,0,0,True
+CCM,Healthcare,0,1,False
+CCNE,Financial Services,1,1,True
+CCR,Basic Materials,0,1,False
+CCUR,Technology,1,0,False
+CDMOP,Healthcare,1,1,True
+CDOR,Real Estate,1,0,False
+CEMI,Healthcare,0,0,True
+CETXP,Industrials,0,1,False
+CFBI,Financial Services,0,0,True
+CFBK,Financial Services,1,0,False
+CGA,Basic Materials,0,0,True
+CHCI,Real Estate,1,1,True
+CHMA,Healthcare,1,0,False
+CHN,Financial Services,1,1,True
+CHNR,Basic Materials,1,0,False
+CHSCO,Consumer Defensive,1,0,False
+CHSCP,Consumer Defensive,1,0,False
+CIFS,Financial Services,1,0,False
+CINR,Basic Materials,0,1,False
+CIX,Industrials,1,1,True
+CIZN,Financial Services,0,1,False
+CJJD,Consumer Defensive,0,0,True
+CKX,Real Estate,0,1,False
+CLBS,Healthcare,0,0,True
+CLFD,Technology,1,1,True
+CLGN,Healthcare,1,0,False
+CLRB,Healthcare,1,0,False
+CLRO,Technology,1,1,True
+CMU,Financial Services,1,1,True
+CNFR,Financial Services,1,0,False
+COCP,Technology,0,1,False
+CODA,Industrials,1,1,True
+CODX,Healthcare,0,0,True
+COHN,Financial Services,0,1,False
+CPAH,Technology,0,0,True
+CPHC,Consumer Cyclical,0,1,False
+CPSH,Technology,0,0,True
+CPSS,Financial Services,1,0,False
+CRT,Energy,0,1,False
+CSPI,Technology,1,1,True
+CSWC,Financial Services,1,1,True
+CTHR,Basic Materials,1,0,False
+CTIB,Consumer Cyclical,0,0,True
+CTXR,Healthcare,0,0,True
+CUI,Technology,0,1,False
+CUO,Industrials,0,1,False
+CVLY,Financial Services,1,1,True
+CVM,Healthcare,1,0,False
+CVR,Industrials,0,0,True
+CWBC,Financial Services,1,1,True
+CXDC,Consumer Cyclical,1,0,False
+CYAN,Consumer Defensive,0,1,False
+CYRN,Technology,0,1,False
+CYTR,Healthcare,0,0,True
+CZNC,Financial Services,1,1,True
+DAC,Industrials,0,0,True
+DARE,Healthcare,1,0,False
+DGLY,Industrials,0,0,True
+DGSE,Consumer Cyclical,1,0,False
+DHXM,Consumer Cyclical,0,1,False
+DISCB,Consumer Cyclical,1,0,False
+DIT,Consumer Defensive,0,1,False
+DJCO,Consumer Cyclical,1,0,False
+DLHC,Industrials,0,1,False
+DLNG,Industrials,0,0,True
+DLPN,Technology,0,1,False
+DMLP,Energy,1,1,True
+DMPI,Healthcare,0,0,True
+DNJR,Financial Services,0,0,True
+DOGZ,Consumer Defensive,0,0,True
+DRD,Basic Materials,1,0,False
+DSWL,Consumer Cyclical,0,0,True
+DTEA,Consumer Defensive,1,1,True
+DVCR,Healthcare,0,1,False
+DVD,Consumer Cyclical,0,0,True
+DXF,Financial Services,0,0,True
+DYNT,Healthcare,0,1,False
+DYSL,Technology,1,1,True
+DZSI,Technology,0,0,True
+EAST,Consumer Defensive,0,0,True
+ECCA,Financial Services,1,1,True
+ECCB,Financial Services,1,1,True
+ECF,Financial Services,1,1,True
+EDF,Financial Services,1,1,True
+EEI,Industrials,1,0,False
+EFBI,Financial Services,1,1,True
+EFOI,Technology,0,0,True
+ELLO,Utilities,1,0,False
+ELMD,Healthcare,1,1,True
+ELTK,Technology,1,0,False
+ELVT,Financial Services,0,1,False
+EMCF,Financial Services,1,1,True
+EMITF,Real Estate,0,1,False
+EMMS,Consumer Cyclical,1,0,False
+EMX,Basic Materials,1,0,False
+ENG,Industrials,1,0,False
+ENSV,Energy,0,0,True
+EPIX,Healthcare,1,0,False
+EQS,Financial Services,0,0,True
+ERYP,Healthcare,1,0,False
+ESBA,Real Estate,1,1,True
+ESBK,Financial Services,0,1,False
+ESCA,Consumer Cyclical,0,1,False
+ESEA,Industrials,0,1,False
+ESQ,Financial Services,1,1,True
+ESTR,Industrials,0,0,True
+EVFM,Healthcare,1,0,False
+EVGN,Healthcare,0,0,True
+EVK,Consumer Cyclical,0,0,True
+EVN,Financial Services,1,1,True
+EVOK,Healthcare,0,0,True
+EXFO,Technology,1,1,True
+EYEG,Healthcare,1,1,True
+EYEN,Healthcare,1,0,False
+FAMI,Consumer Defensive,0,0,True
+FAT,Consumer Cyclical,0,1,False
+FCAP,Financial Services,1,1,True
+FCRE,Healthcare,1,0,False
+FDBC,Financial Services,0,1,False
+FEIM,Technology,1,0,False
+FFBW,Financial Services,1,1,True
+FFHL,Consumer Cyclical,1,1,True
+FISK,Real Estate,1,1,True
+FITBI,Financial Services,1,0,False
+FLGT,Healthcare,1,0,False
+FNCB,Financial Services,1,1,True
+FORD,Consumer Cyclical,0,0,True
+FORK,Consumer Cyclical,0,0,True
+FORTY,Technology,1,1,True
+FPAY,Financial Services,1,1,True
+FRD,Basic Materials,0,0,True
+FSBC,Financial Services,1,1,True
+FSBW,Financial Services,1,1,True
+FSFG,Financial Services,1,1,True
+FSI,Basic Materials,1,0,False
+FTEO,Technology,0,1,False
+FTFT,Consumer Defensive,0,0,True
+FUNC,Financial Services,1,1,True
+FUND,Financial Services,1,1,True
+FUSB,Financial Services,1,1,True
+FUV,Consumer Cyclical,0,0,True
+GAINM,Financial Services,1,1,True
+GBR,Energy,0,0,True
+GEMP,Healthcare,0,0,True
+GENE,Healthcare,0,0,True
+GEVO,Basic Materials,1,0,False
+GFED,Financial Services,1,1,True
+GFNCP,Industrials,1,1,True
+GGZ,Financial Services,1,1,True
+GIG,Industrials,1,1,True
+GIGM,Technology,0,1,False
+GILT,Technology,0,0,True
+GLBS,Industrials,0,0,True
+GLBZ,Financial Services,1,1,True
+GLU,Financial Services,1,1,True
+GMO,Basic Materials,0,0,True
+GNTY,Financial Services,1,1,True
+GNUS,Consumer Cyclical,0,0,True
+GOODM,Real Estate,1,1,True
+GPAQ,Industrials,1,1,True
+GRF,Financial Services,1,1,True
+GSB,Technology,1,1,True
+GSH,Industrials,0,1,False
+GSIT,Technology,1,0,False
+GTIM,Consumer Cyclical,0,1,False
+GTYH,Industrials,0,0,True
+GVP,Technology,0,0,True
+GWGH,Financial Services,1,0,False
+GYRO,Real Estate,1,1,True
+HBANN,Financial Services,1,1,True
+HBCP,Financial Services,1,1,True
+HCAC,Industrials,1,0,False
+HCAP,Financial Services,0,1,False
+HEBT,Industrials,1,0,False
+HFBL,Financial Services,1,1,True
+HGSH,Real Estate,0,1,False
+HHS,Consumer Cyclical,1,0,False
+HIHO,Industrials,0,1,False
+HMG,Real Estate,0,0,True
+HMNF,Financial Services,1,1,True
+HNNA,Financial Services,1,1,True
+HNRG,Basic Materials,0,1,False
+HOVNP,Consumer Cyclical,1,1,True
+HRZN,Financial Services,1,0,False
+HURC,Technology,1,1,True
+HUSA,Energy,0,0,True
+HVBC,Financial Services,1,1,True
+HWBK,Financial Services,1,1,True
+HWCC,Industrials,0,0,True
+HYAC,Industrials,1,1,True
+HYACU,Industrials,1,1,True
+HYB,Financial Services,1,1,True
+IAM,Industrials,1,1,True
+IBA,Consumer Defensive,1,1,True
+IBKCO,Financial Services,1,1,True
+ICCC,Healthcare,0,0,True
+ICCH,Financial Services,1,1,True
+IDSA,Industrials,1,0,False
+IDXG,Healthcare,0,0,True
+IEC,Technology,1,0,False
+IGC,Basic Materials,1,0,False
+IGLD,Communication Services,0,0,True
+IHC,Financial Services,1,1,True
+IHT,Real Estate,0,1,False
+IID,Financial Services,1,1,True
+IKNX,Basic Materials,0,1,False
+IMMP,Healthcare,0,0,True
+IMRN,Healthcare,0,0,True
+IMTE,Communication Services,1,0,False
+INOD,Technology,0,0,True
+INS,Industrials,1,1,True
+INSE,Consumer Cyclical,1,1,True
+INTG,Real Estate,1,1,True
+INVE,Technology,1,0,False
+IPWR,Industrials,0,0,True
+IROQ,Financial Services,1,1,True
+ISDR,Technology,1,1,True
+ISIG,Consumer Cyclical,0,1,False
+ISR,Healthcare,1,0,False
+ISSC,Industrials,1,0,False
+ITCB,Financial Services,0,1,False
+IZEA,Technology,0,0,True
+JCS,Technology,1,0,False
+JCTCF,Basic Materials,1,1,True
+JHB,Financial Services,1,1,True
+JHX,Basic Materials,1,0,False
+JMP,Financial Services,0,1,False
+JMU,Consumer Cyclical,1,0,False
+JVA,Consumer Defensive,1,0,False
+KBLM,Industrials,1,0,False
+KBSF,Consumer Cyclical,0,0,True
+KELYB,Industrials,1,1,True
+KFFB,Financial Services,1,1,True
+KFS,Financial Services,0,0,True
+KGJI,Basic Materials,1,1,True
+KIQ,Industrials,1,0,False
+KMDA,Healthcare,1,1,True
+KOSS,Technology,0,0,True
+KRP,Energy,1,1,True
+KTCC,Technology,0,0,True
+KZIA,Healthcare,1,0,False
+LACQ,Industrials,1,0,False
+LAKE,Healthcare,1,0,False
+LANDP,Real Estate,1,1,True
+LARK,Financial Services,1,1,True
+LAWS,Industrials,1,1,True
+LAZY,Industrials,0,0,True
+LBTYB,Communication Services,1,0,False
+LCA,Industrials,1,0,False
+LEDS,Technology,0,0,True
+LEU,Basic Materials,1,0,False
+LGC,Industrials,1,0,False
+LGL,Technology,1,0,False
+LINC,Consumer Defensive,0,0,True
+LIVE,Industrials,1,1,True
+LIVX,Industrials,0,0,True
+LLIT,Healthcare,0,0,True
+LMRKO,Real Estate,1,1,True
+LMRKP,Real Estate,1,1,True
+LND,Consumer Defensive,1,0,False
+LOAN,Financial Services,1,1,True
+LONE,Energy,0,1,False
+LOOP,Communication Services,1,0,False
+LSBK,Financial Services,1,1,True
+LSXMB,Consumer Cyclical,1,0,False
+LTRPB,Technology,0,1,False
+LTRX,Technology,1,1,True
+LUB,Consumer Cyclical,1,0,False
+LXFR,Industrials,1,1,True
+MANU,Consumer Cyclical,1,1,True
+MARPS,Energy,1,0,False
+MAYS,Real Estate,0,1,False
+MCEP,Energy,0,0,True
+MDLY,Financial Services,0,1,False
+MELR,Financial Services,1,1,True
+MESO,Healthcare,1,1,True
+MGYR,Financial Services,1,1,True
+MHE,Financial Services,1,1,True
+MICR,Healthcare,0,0,True
+MINDP,Technology,1,1,True
+MJCO,Technology,1,0,False
+MLP,Real Estate,1,0,False
+MLSS,Healthcare,1,0,False
+MMD,Financial Services,1,1,True
+MNI,Consumer Cyclical,0,1,False
+MOSC,Industrials,1,0,False
+MOXC,Technology,1,0,False
+MPB,Financial Services,1,1,True
+MPVD,Basic Materials,0,0,True
+MRBK,Financial Services,1,1,True
+MSBF,Financial Services,1,1,True
+MSON,Healthcare,1,0,False
+MTEX,Consumer Defensive,0,0,True
+MTFB,Healthcare,0,0,True
+MTP,Healthcare,0,1,False
+MTSL,Communication Services,0,0,True
+MUDS,Industrials,1,1,True
+MVBF,Financial Services,1,1,True
+MYOS,Healthcare,0,0,True
+NAKD,Consumer Cyclical,0,0,True
+NAOV,Healthcare,0,0,True
+NATR,Consumer Defensive,1,0,False
+NAVB,Healthcare,0,0,True
+NBB,Financial Services,1,1,True
+NBN,Financial Services,1,1,True
+NBY,Healthcare,0,0,True
+NCB,Financial Services,1,1,True
+NCTY,Technology,0,0,True
+NDRA,Healthcare,0,0,True
+NEBU,Industrials,1,1,True
+NEN,Real Estate,1,1,True
+NESR,Industrials,1,1,True
+NEWA,Industrials,0,0,True
+NGHCP,Financial Services,1,1,True
+NGVC,Consumer Defensive,0,1,False
+NHLD,Financial Services,0,1,False
+NHTC,Consumer Defensive,0,1,False
+NICK,Financial Services,0,0,True
+NMI,Financial Services,1,0,False
+NMRD,Healthcare,0,0,True
+NNDM,Technology,0,0,True
+NNVC,Healthcare,0,0,True
+NOM,Financial Services,1,1,True
+NPN,Financial Services,1,1,True
+NRT,Energy,1,1,True
+NSEC,Financial Services,1,1,True
+NSYS,Technology,1,1,True
+NTRP,Industrials,0,0,True
+NTZ,Consumer Cyclical,0,0,True
+NWFL,Financial Services,1,1,True
+NWHM,Consumer Cyclical,0,0,True
+NYMTN,Real Estate,1,1,True
+NYMTO,Real Estate,1,1,True
+OBAS,Real Estate,1,1,True
+OBCI,Consumer Defensive,1,1,True
+OBSV,Healthcare,0,0,True
+OCC,Technology,0,0,True
+ODC,Basic Materials,1,0,False
+OESX,Technology,1,0,False
+OFLX,Industrials,1,1,True
+OGCP,Real Estate,1,1,True
+OHAI,Financial Services,1,0,False
+OMAD,Industrials,0,0,True
+OPGN,Healthcare,0,0,True
+OPHC,Financial Services,0,0,True
+OPOF,Financial Services,1,1,True
+ORGS,Industrials,0,0,True
+ORMP,Healthcare,1,0,False
+ORRF,Financial Services,1,1,True
+OTEL,Communication Services,0,0,True
+OTTW,Financial Services,1,1,True
+OVLY,Financial Services,1,1,True
+OXBR,Financial Services,0,0,True
+OXLCM,Financial Services,1,1,True
+OXLCO,Financial Services,1,1,True
+PATI,Industrials,0,1,False
+PAVM,Healthcare,1,0,False
+PBHC,Financial Services,0,1,False
+PCM,Financial Services,1,1,True
+PDEX,Healthcare,1,0,False
+PDLB,Financial Services,1,1,True
+PESI,Industrials,1,0,False
+PETZ,Consumer Defensive,1,0,False
+PFIN,Industrials,0,0,True
+PFIS,Financial Services,1,1,True
+PIH,Financial Services,1,1,True
+PKBK,Financial Services,1,1,True
+PKO,Financial Services,1,1,True
+PLBC,Financial Services,1,1,True
+PLG,Basic Materials,1,0,False
+PLYM,Real Estate,1,1,True
+PMD,Healthcare,0,1,False
+PME,Consumer Defensive,0,0,True
+PNBK,Financial Services,0,1,False
+PNRG,Energy,1,1,True
+POPE,Basic Materials,1,1,True
+PRKR,Technology,1,0,False
+PROV,Financial Services,1,1,True
+PRPH,Healthcare,0,0,True
+PRPL,Consumer Cyclical,1,1,True
+PTNR,Communication Services,0,0,True
+PTSI,Industrials,1,1,True
+PW,Real Estate,1,1,True
+PXS,Industrials,1,0,False
+PZC,Financial Services,1,1,True
+QADB,Technology,1,0,False
+QBAK,Technology,0,0,True
+QRHC,Technology,1,1,True
+QRTEB,Consumer Cyclical,0,0,True
+QTRH,Technology,1,0,False
+RAND,Financial Services,1,0,False
+RBCN,Technology,1,0,False
+RBNC,Financial Services,1,1,True
+RCMT,Industrials,0,0,True
+RCON,Energy,0,0,True
+REED,Consumer Defensive,0,0,True
+REFR,Technology,1,0,False
+RELV,Consumer Defensive,0,0,True
+RFI,Financial Services,1,1,True
+RGCO,Utilities,0,1,False
+RGSE,Technology,0,0,True
+RGT,Financial Services,1,0,False
+RMBL,Consumer Cyclical,0,0,True
+RMCF,Consumer Defensive,1,1,True
+RNDB,Financial Services,1,0,False
+RWGE,Industrials,1,0,False
+SAEX,Energy,1,0,False
+SAMG,Financial Services,1,1,True
+SAR,Financial Services,1,0,False
+SAUC,Consumer Cyclical,0,1,False
+SBFGP,Financial Services,1,1,True
+SBR,Energy,1,1,True
+SCD,Financial Services,1,1,True
+SCKT,Technology,1,0,False
+SCX,Industrials,1,0,False
+SELF,Real Estate,1,1,True
+SENEB,Consumer Defensive,1,1,True
+SES,Basic Materials,0,0,True
+SFBC,Financial Services,1,1,True
+SGA,Consumer Cyclical,0,1,False
+SGB,Financial Services,1,1,True
+SGLB,Technology,0,0,True
+SHIP,Industrials,0,0,True
+SHSP,Consumer Cyclical,0,0,True
+SIEB,Financial Services,0,1,False
+SIF,Industrials,1,0,False
+SIFY,Communication Services,0,1,False
+SIM,Basic Materials,1,1,True
+SLMBP,Financial Services,0,1,False
+SLNO,Healthcare,1,0,False
+SMED,Industrials,1,1,True
+SMSI,Technology,1,0,False
+SMTS,Basic Materials,0,1,False
+SMTX,Technology,0,0,True
+SNDE,Energy,0,0,True
+SNES,Basic Materials,0,0,True
+SNFCA,Financial Services,1,1,True
+SNMP,Energy,0,1,False
+SOFO,Technology,1,0,False
+SOL,Technology,1,0,False
+SPI,Technology,1,0,False
+SPRO,Consumer Defensive,1,0,False
+SRTS,Healthcare,0,0,True
+SSBI,Financial Services,1,1,True
+SSKN,Healthcare,0,1,False
+SSNT,Technology,1,1,True
+SSY,Healthcare,0,0,True
+SUMR,Consumer Defensive,0,0,True
+SUNW,Technology,0,0,True
+SVBI,Financial Services,1,1,True
+SVT,Technology,0,0,True
+SWJ,Industrials,1,0,False
+SXI,Industrials,1,1,True
+SYPR,Consumer Cyclical,0,0,True
+TACT,Technology,1,1,True
+TAIT,Technology,1,1,True
+TATT,Industrials,0,0,True
+TAYD,Industrials,0,0,True
+TCBIP,Financial Services,1,1,True
+TCCO,Technology,1,0,False
+TDI,Communication Services,1,0,False
+TDJ,Communication Services,1,0,False
+TGC,Energy,0,0,True
+THST,Consumer Defensive,0,1,False
+TKAT,Consumer Cyclical,0,0,True
+TMQ,Basic Materials,1,0,False
+TMSR,Industrials,0,0,True
+TPGH,Industrials,1,1,True
+TRCB,Financial Services,1,1,True
+TRCH,Energy,1,0,False
+TRIL,Healthcare,0,0,True
+TRMD,Industrials,1,0,False
+TRMT,Real Estate,0,0,True
+TRNS,Technology,1,1,True
+TRPX,Healthcare,0,0,True
+TRX,Basic Materials,1,0,False
+TSRI,Technology,0,1,False
+TURN,Financial Services,1,1,True
+TZOO,Technology,1,1,True
+UAMY,Basic Materials,0,0,True
+UBCP,Financial Services,1,1,True
+UBOH,Financial Services,1,1,True
+UBP,Real Estate,1,1,True
+UNAM,Financial Services,0,0,True
+UNB,Financial Services,0,1,False
+UNTY,Financial Services,1,1,True
+UONE,Consumer Cyclical,0,1,False
+UONEK,Consumer Cyclical,1,1,True
+USAP,Basic Materials,0,0,True
+USAS,Basic Materials,1,0,False
+USDP,Industrials,1,1,True
+USLM,Basic Materials,1,1,True
+VBFC,Financial Services,1,0,False
+VCF,Financial Services,1,1,True
+VIRC,Industrials,1,0,False
+VNCE,Consumer Cyclical,1,0,False
+VRNA,Healthcare,0,0,True
+VRTSP,Financial Services,1,1,True
+VTGN,Healthcare,0,0,True
+VTNR,Industrials,1,1,True
+VVUS,Healthcare,1,0,False
+VXRT,Healthcare,0,0,True
+VZA,Communication Services,0,0,True
+WCFB,Financial Services,1,1,True
+WEBK,Financial Services,1,1,True
+WHLM,Industrials,0,1,False
+WHLRD,Real Estate,1,1,True
+WILC,Consumer Defensive,1,1,True
+WINA,Consumer Cyclical,1,1,True
+WINS,Financial Services,0,1,False
+WRLS,Industrials,1,1,True
+WRN,Basic Materials,1,0,False
+WSTG,Technology,1,1,True
+WTT,Technology,0,1,False
+WVFC,Financial Services,1,1,True
+WVVI,Consumer Defensive,0,1,False
+XBIO,Healthcare,0,0,True
+XBIT,Healthcare,1,0,False
+XELB,Consumer Cyclical,1,1,True
+XTLB,Healthcare,0,0,True
+YRIV,Real Estate,0,0,True
+YTEN,Basic Materials,0,0,True
+ZKIN,Basic Materials,0,0,True
+ZOM,Industrials,0,0,True
+ZYME,Healthcare,1,1,True
