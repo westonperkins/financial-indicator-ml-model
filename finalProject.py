@@ -228,6 +228,7 @@ plt.show()
 # ROC CURVE
 y_prob = logical_regression.predict_proba(X_test_scaled)[:, 1]
 
+# false positive rate (fpr) true positive rate (tpr)
 fpr, tpr, _ = roc_curve(y_test, y_prob)
 roc_auc = auc(fpr, tpr)
 
