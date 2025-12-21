@@ -24,19 +24,19 @@ I used a logistic regression classifier as it is appropriate for binary classifi
 ### Results and Visual Analysis:
 #### Actual Stock Outcomes in 2018 (Figure 1):
 
-![alt text](Figure_1.png)
+![alt text](plots/Figure_1.png)
 
 Figure 1 shows the true outcomes for all stocks in the test set, and whether or not they were classified as a 1 (buy) or 0 (sell). The chart shows a clear imbalance in buy/sell indicators, as significantly more stocks increased in value rather than decreased. Considering this, it's important to recognize that accuracy alone is not necessarily enough to consider the model “successful.” In a bull market, buying everything would most likely lead to positive gains, but of course, that is circumstantial and would not be considered a sound trading strategy
 
 #### Actual vs Predicted Buy/Sell Distribution (Figure 2):
 
-![alt text](Figure_2.png)
+![alt text](plots/Figure_2.png)
 
 This chart compares the actual buy/sell distribution to the model’s predicted distribution for 2018. The model slightly underpredicts buy signals and slightly overpredicts sell signals, but the overall split closely resembles market behavior. 
 
 #### Overall Performance; ROC Curve (Figure 3):
 
-![alt text](Figure_3.png)
+![alt text](plots/Figure_3.png)
 
 The model achieved an overall accuracy score of approximately 66% on the test set from 2018. Although this probably would not be good enough for automated trading, it is definitely better than a random guess and confirms that financial indicators do contain predictive signals.
 
@@ -44,25 +44,25 @@ The ROC Curve (Receiver Operating Characteristic) shows an Area Under the Curve 
 
 #### Confusion Matrix (Figure 4):
 
-![alt text](Figure_4.png)
+![alt text](plots/Figure_4.png)
 
 The Confusion Matrix is broken up into 4 categories: Correct buys, correct sells, false buys, and false sells. The model proved to be better at identifying stocks that increased in value rather than stocks that declined in value. This bias towards identifying winners aligns with a more aggressive investment strategy, which prioritizes capturing upside at the expense of occasionally misclassifying declining stocks.
 
 #### 15 Most Important Indicators Bar Chart (Figure 5):
 
-![alt text](Figure_5.png)
+![alt text](plots/Figure_5.png)
 
 One of the benefits of logistic regression is its interpretability. We can examine the model coefficients and identify which financial indicators most strongly influence predictions. By a large margin, Weighted Average Shared Diluted Growth had the largest coefficient and the most significant influence on predictions, at 2.16, and Earnings Before Tax Margin had the second-highest coefficient at 1.28 (absolute value). OperatingProfitMargin had the lowest at 0 (not shown in the chart).
 
 #### Direction of Influence (Figure 6):
 
-![alt text](Figure_6.png)
+![alt text](plots/Figure_6.png)
 
 This chart expands on the 15 Most Important Indicators but shows whether each indicator pushed the model toward a buy or sell decision. A positive coefficient corresponds to a buy signal, and a negative coefficient corresponds to a sell. The model seemed to have favored companies with strong profitability and cash flow while penalizing companies with higher valuation ratios or balance sheet issues. 
 
 #### Model Accuracy by Sector (Figure 7):
 
-![alt text](Figure_7.png)
+![alt text](plots/Figure_7.png)
 
 These were potentially the most interesting findings, as the accuracy varied significantly by sector. For example, the model was about 80% accurate when predicting Utility stocks, but only about 50% accurate when predicting Energy stocks. So knowing this, if you wanted to use the model strictly for Utilities, for example, the results say you would be correct 8 out of 10 times, and that is much more significant than 66%, the model's average. Of course, this is not enough to suggest the model is “better for Utilities”; it's just worth looking into.
 
